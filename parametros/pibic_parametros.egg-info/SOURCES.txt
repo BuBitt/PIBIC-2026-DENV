@@ -1,0 +1,5 @@
+pyproject.toml
+pibic_parametros.egg-info/PKG-INFO
+pibic_parametros.egg-info/SOURCES.txt
+pibic_parametros.egg-info/dependency_links.txt
+pibic_parametros.egg-info/top_level.txt
