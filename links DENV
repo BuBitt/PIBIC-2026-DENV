@@ -23,3 +23,9 @@ DENV 1 - https://nextgen-tools.iedb.org/pipeline/8680f91e-7089-48e2-88a3-3e535be
 DENV 2 - https://nextgen-tools.iedb.org/pipeline/03e5d915-edd2-418d-b59b-c1f1ab800b7b
 DENV 3 - https://nextgen-tools.iedb.org/pipeline/69bb7e35-35e9-4c1f-af66-b973a712cf1e
 DENV 4 - https://nextgen-tools.iedb.org/pipeline/e9ddda68-67e3-4b65-8256-87573e639661
+
+PSIPRED
+DENV 1 - https://bioinf.cs.ucl.ac.uk/psipred/&uuid=3b30e87c-bb6c-11f1-96e2-00163e100466
+DENV 2 - https://bioinf.cs.ucl.ac.uk/psipred/&uuid=666a7d90-bb72-11f1-9e22-00163e100466
+DENV 3 - https://bioinf.cs.ucl.ac.uk/psipred/&uuid=9657acbc-bb72-11f1-9e22-00163e100466
+DENV 4 - https://bioinf.cs.ucl.ac.uk/psipred/&uuid=b547aae6-bb72-11f1-a133-00163e100466
