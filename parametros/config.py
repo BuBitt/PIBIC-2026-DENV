@@ -7,3 +7,6 @@ filtarar_por_qte_de_alelos_tcc1 = 10
 parametro_de_filtragem_mbp_tcc2 = 1
 percent_match_minimo_tcc2 = 95.0
 filtarar_por_qte_de_alelos_tcc2 = 2
+
+# Gerais
+corte_flexibilidade = 35.0

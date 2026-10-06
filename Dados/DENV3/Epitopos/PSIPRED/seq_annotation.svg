@@ -1,0 +1,2113 @@
+<svg id="annotationGrid" width="900" height="460" style="text-rendering: optimizelegibility; font-family: sans-serif;"><g id="container" width="836" height="396" transform="translate(32,80)"><rect class="rect" width="17.6" height="17.6" transform="translate(0,0)" fill="Orange" stroke="white"><title>Pos: 1
+ss: C
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(16.72,0)" fill="Orange" stroke="white"><title>Pos: 2
+ss: C
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(33.44,0)" fill="Orange" stroke="white"><title>Pos: 3
+ss: C
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(50.16,0)" fill="Orange" stroke="white"><title>Pos: 4
+ss: C
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(66.88,0)" fill="Orange" stroke="white"><title>Pos: 5
+ss: E
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(83.6,0)" fill="Orange" stroke="white"><title>Pos: 6
+ss: E
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(100.32,0)" fill="Orange" stroke="white"><title>Pos: 7
+ss: E
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(117.03999999999999,0)" fill="Orange" stroke="white"><title>Pos: 8
+ss: C
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(133.76,0)" fill="Orange" stroke="white"><title>Pos: 9
+ss: C
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(150.48,0)" fill="Orange" stroke="white"><title>Pos: 10
+ss: C
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(167.2,0)" fill="Orange" stroke="white"><title>Pos: 11
+ss: C
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(183.92,0)" fill="Orange" stroke="white"><title>Pos: 12
+ss: E
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(200.64,0)" fill="Orange" stroke="white"><title>Pos: 13
+ss: E
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(217.35999999999999,0)" fill="Orange" stroke="white"><title>Pos: 14
+ss: E
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(234.07999999999998,0)" fill="Orange" stroke="white"><title>Pos: 15
+ss: E
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(250.79999999999998,0)" fill="Orange" stroke="white"><title>Pos: 16
+ss: C
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(267.52,0)" fill="Orange" stroke="white"><title>Pos: 17
+ss: E
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(284.24,0)" fill="Orange" stroke="white"><title>Pos: 18
+ss: E
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(300.96,0)" fill="Orange" stroke="white"><title>Pos: 19
+ss: E
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(317.67999999999995,0)" fill="Orange" stroke="white"><title>Pos: 20
+ss: E
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(334.4,0)" fill="Orange" stroke="white"><title>Pos: 21
+ss: E
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(351.12,0)" fill="Orange" stroke="white"><title>Pos: 22
+ss: E
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(367.84,0)" fill="Orange" stroke="white"><title>Pos: 23
+ss: C
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(384.55999999999995,0)" fill="Orange" stroke="white"><title>Pos: 24
+ss: C
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(401.28,0)" fill="Orange" stroke="white"><title>Pos: 25
+ss: C
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(418,0)" fill="Orange" stroke="white"><title>Pos: 26
+ss: C
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(434.71999999999997,0)" fill="Orange" stroke="white"><title>Pos: 27
+ss: C
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(451.43999999999994,0)" fill="Orange" stroke="white"><title>Pos: 28
+ss: C
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(468.15999999999997,0)" fill="Orange" stroke="white"><title>Pos: 29
+ss: E
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(484.88,0)" fill="Orange" stroke="white"><title>Pos: 30
+ss: E
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(501.59999999999997,0)" fill="Orange" stroke="white"><title>Pos: 31
+ss: E
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(518.3199999999999,0)" fill="Orange" stroke="white"><title>Pos: 32
+ss: E
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(535.04,0)" fill="Orange" stroke="white"><title>Pos: 33
+ss: E
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(551.76,0)" fill="Orange" stroke="white"><title>Pos: 34
+ss: E
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(568.48,0)" fill="Orange" stroke="white"><title>Pos: 35
+ss: E
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(585.1999999999999,0)" fill="Orange" stroke="white"><title>Pos: 36
+ss: C
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(601.92,0)" fill="Orange" stroke="white"><title>Pos: 37
+ss: C
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(618.64,0)" fill="Orange" stroke="white"><title>Pos: 38
+ss: C
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(635.3599999999999,0)" fill="Orange" stroke="white"><title>Pos: 39
+ss: H
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(652.0799999999999,0)" fill="Orange" stroke="white"><title>Pos: 40
+ss: H
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(668.8,0)" fill="Orange" stroke="white"><title>Pos: 41
+ss: H
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(685.52,0)" fill="Orange" stroke="white"><title>Pos: 42
+ss: H
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(702.24,0)" fill="Orange" stroke="white"><title>Pos: 43
+ss: H
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(718.9599999999999,0)" fill="Orange" stroke="white"><title>Pos: 44
+ss: H
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(735.68,0)" fill="Orange" stroke="white"><title>Pos: 45
+ss: H
+memsat: EC
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(752.4,0)" fill="DarkGrey" stroke="white"><title>Pos: 46
+ss: H
+memsat: TM
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(769.1199999999999,0)" fill="DarkGrey" stroke="white"><title>Pos: 47
+ss: H
+memsat: TM
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(785.8399999999999,0)" fill="DarkGrey" stroke="white"><title>Pos: 48
+ss: H
+memsat: TM
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(802.56,0)" fill="DarkGrey" stroke="white"><title>Pos: 49
+ss: H
+memsat: TM
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(819.28,0)" fill="DarkGrey" stroke="white"><title>Pos: 50
+ss: H
+memsat: TM
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(0,19.2)" fill="DarkGrey" stroke="white"><title>Pos: 51
+ss: H
+memsat: TM
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(16.72,19.2)" fill="DarkGrey" stroke="white"><title>Pos: 52
+ss: C
+memsat: TM
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(33.44,19.2)" fill="DarkGrey" stroke="white"><title>Pos: 53
+ss: C
+memsat: TM
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(50.16,19.2)" fill="DarkGrey" stroke="white"><title>Pos: 54
+ss: C
+memsat: TM
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(66.88,19.2)" fill="DarkGrey" stroke="white"><title>Pos: 55
+ss: E
+memsat: TM
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(83.6,19.2)" fill="DarkGrey" stroke="white"><title>Pos: 56
+ss: E
+memsat: TM
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(100.32,19.2)" fill="DarkGrey" stroke="white"><title>Pos: 57
+ss: E
+memsat: TM
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(117.03999999999999,19.2)" fill="DarkGrey" stroke="white"><title>Pos: 58
+ss: E
+memsat: TM
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(133.76,19.2)" fill="DarkGrey" stroke="white"><title>Pos: 59
+ss: E
+memsat: TM
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(150.48,19.2)" fill="DarkGrey" stroke="white"><title>Pos: 60
+ss: C
+memsat: TM
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(167.2,19.2)" fill="DarkGrey" stroke="white"><title>Pos: 61
+ss: C
+memsat: TM
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(183.92,19.2)" fill="White" stroke="white"><title>Pos: 62
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(200.64,19.2)" fill="White" stroke="white"><title>Pos: 63
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(217.35999999999999,19.2)" fill="White" stroke="white"><title>Pos: 64
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(234.07999999999998,19.2)" fill="White" stroke="white"><title>Pos: 65
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(250.79999999999998,19.2)" fill="White" stroke="white"><title>Pos: 66
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(267.52,19.2)" fill="White" stroke="white"><title>Pos: 67
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(284.24,19.2)" fill="White" stroke="white"><title>Pos: 68
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(300.96,19.2)" fill="White" stroke="white"><title>Pos: 69
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(317.67999999999995,19.2)" fill="White" stroke="white"><title>Pos: 70
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(334.4,19.2)" fill="White" stroke="white"><title>Pos: 71
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(351.12,19.2)" fill="White" stroke="white"><title>Pos: 72
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(367.84,19.2)" fill="White" stroke="white"><title>Pos: 73
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(384.55999999999995,19.2)" fill="White" stroke="white"><title>Pos: 74
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(401.28,19.2)" fill="White" stroke="white"><title>Pos: 75
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(418,19.2)" fill="White" stroke="white"><title>Pos: 76
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(434.71999999999997,19.2)" fill="White" stroke="white"><title>Pos: 77
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(451.43999999999994,19.2)" fill="White" stroke="white"><title>Pos: 78
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(468.15999999999997,19.2)" fill="White" stroke="white"><title>Pos: 79
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(484.88,19.2)" fill="White" stroke="white"><title>Pos: 80
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(501.59999999999997,19.2)" fill="White" stroke="white"><title>Pos: 81
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(518.3199999999999,19.2)" fill="White" stroke="white"><title>Pos: 82
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(535.04,19.2)" fill="White" stroke="white"><title>Pos: 83
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(551.76,19.2)" fill="White" stroke="white"><title>Pos: 84
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(568.48,19.2)" fill="White" stroke="white"><title>Pos: 85
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(585.1999999999999,19.2)" fill="White" stroke="white"><title>Pos: 86
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(601.92,19.2)" fill="White" stroke="white"><title>Pos: 87
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(618.64,19.2)" fill="White" stroke="white"><title>Pos: 88
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(635.3599999999999,19.2)" fill="White" stroke="white"><title>Pos: 89
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(652.0799999999999,19.2)" fill="White" stroke="white"><title>Pos: 90
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(668.8,19.2)" fill="White" stroke="white"><title>Pos: 91
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(685.52,19.2)" fill="White" stroke="white"><title>Pos: 92
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(702.24,19.2)" fill="White" stroke="white"><title>Pos: 93
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(718.9599999999999,19.2)" fill="White" stroke="white"><title>Pos: 94
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(735.68,19.2)" fill="White" stroke="white"><title>Pos: 95
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(752.4,19.2)" fill="White" stroke="white"><title>Pos: 96
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(769.1199999999999,19.2)" fill="White" stroke="white"><title>Pos: 97
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(785.8399999999999,19.2)" fill="White" stroke="white"><title>Pos: 98
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(802.56,19.2)" fill="White" stroke="white"><title>Pos: 99
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(819.28,19.2)" fill="White" stroke="white"><title>Pos: 100
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(0,38.4)" fill="White" stroke="white"><title>Pos: 101
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(16.72,38.4)" fill="White" stroke="white"><title>Pos: 102
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(33.44,38.4)" fill="White" stroke="white"><title>Pos: 103
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(50.16,38.4)" fill="White" stroke="white"><title>Pos: 104
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(66.88,38.4)" fill="White" stroke="white"><title>Pos: 105
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(83.6,38.4)" fill="White" stroke="white"><title>Pos: 106
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(100.32,38.4)" fill="White" stroke="white"><title>Pos: 107
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(117.03999999999999,38.4)" fill="White" stroke="white"><title>Pos: 108
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(133.76,38.4)" fill="White" stroke="white"><title>Pos: 109
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(150.48,38.4)" fill="White" stroke="white"><title>Pos: 110
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(167.2,38.4)" fill="White" stroke="white"><title>Pos: 111
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(183.92,38.4)" fill="White" stroke="white"><title>Pos: 112
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(200.64,38.4)" fill="White" stroke="white"><title>Pos: 113
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(217.35999999999999,38.4)" fill="White" stroke="white"><title>Pos: 114
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(234.07999999999998,38.4)" fill="White" stroke="white"><title>Pos: 115
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(250.79999999999998,38.4)" fill="White" stroke="white"><title>Pos: 116
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(267.52,38.4)" fill="White" stroke="white"><title>Pos: 117
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(284.24,38.4)" fill="White" stroke="white"><title>Pos: 118
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(300.96,38.4)" fill="White" stroke="white"><title>Pos: 119
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(317.67999999999995,38.4)" fill="White" stroke="white"><title>Pos: 120
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(334.4,38.4)" fill="White" stroke="white"><title>Pos: 121
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(351.12,38.4)" fill="White" stroke="white"><title>Pos: 122
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(367.84,38.4)" fill="White" stroke="white"><title>Pos: 123
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(384.55999999999995,38.4)" fill="White" stroke="white"><title>Pos: 124
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(401.28,38.4)" fill="White" stroke="white"><title>Pos: 125
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(418,38.4)" fill="White" stroke="white"><title>Pos: 126
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(434.71999999999997,38.4)" fill="White" stroke="white"><title>Pos: 127
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(451.43999999999994,38.4)" fill="White" stroke="white"><title>Pos: 128
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(468.15999999999997,38.4)" fill="White" stroke="white"><title>Pos: 129
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(484.88,38.4)" fill="White" stroke="white"><title>Pos: 130
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(501.59999999999997,38.4)" fill="White" stroke="white"><title>Pos: 131
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(518.3199999999999,38.4)" fill="White" stroke="white"><title>Pos: 132
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(535.04,38.4)" fill="White" stroke="white"><title>Pos: 133
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(551.76,38.4)" fill="White" stroke="white"><title>Pos: 134
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(568.48,38.4)" fill="White" stroke="white"><title>Pos: 135
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(585.1999999999999,38.4)" fill="White" stroke="white"><title>Pos: 136
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(601.92,38.4)" fill="White" stroke="white"><title>Pos: 137
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(618.64,38.4)" fill="White" stroke="white"><title>Pos: 138
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(635.3599999999999,38.4)" fill="White" stroke="white"><title>Pos: 139
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(652.0799999999999,38.4)" fill="White" stroke="white"><title>Pos: 140
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(668.8,38.4)" fill="White" stroke="white"><title>Pos: 141
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(685.52,38.4)" fill="White" stroke="white"><title>Pos: 142
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(702.24,38.4)" fill="White" stroke="white"><title>Pos: 143
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(718.9599999999999,38.4)" fill="White" stroke="white"><title>Pos: 144
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(735.68,38.4)" fill="White" stroke="white"><title>Pos: 145
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(752.4,38.4)" fill="White" stroke="white"><title>Pos: 146
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(769.1199999999999,38.4)" fill="White" stroke="white"><title>Pos: 147
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(785.8399999999999,38.4)" fill="White" stroke="white"><title>Pos: 148
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(802.56,38.4)" fill="White" stroke="white"><title>Pos: 149
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(819.28,38.4)" fill="White" stroke="white"><title>Pos: 150
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(0,57.599999999999994)" fill="White" stroke="white"><title>Pos: 151
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(16.72,57.599999999999994)" fill="White" stroke="white"><title>Pos: 152
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(33.44,57.599999999999994)" fill="White" stroke="white"><title>Pos: 153
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(50.16,57.599999999999994)" fill="White" stroke="white"><title>Pos: 154
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(66.88,57.599999999999994)" fill="White" stroke="white"><title>Pos: 155
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(83.6,57.599999999999994)" fill="White" stroke="white"><title>Pos: 156
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(100.32,57.599999999999994)" fill="White" stroke="white"><title>Pos: 157
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(117.03999999999999,57.599999999999994)" fill="White" stroke="white"><title>Pos: 158
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(133.76,57.599999999999994)" fill="White" stroke="white"><title>Pos: 159
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(150.48,57.599999999999994)" fill="White" stroke="white"><title>Pos: 160
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(167.2,57.599999999999994)" fill="White" stroke="white"><title>Pos: 161
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(183.92,57.599999999999994)" fill="White" stroke="white"><title>Pos: 162
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(200.64,57.599999999999994)" fill="White" stroke="white"><title>Pos: 163
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(217.35999999999999,57.599999999999994)" fill="White" stroke="white"><title>Pos: 164
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(234.07999999999998,57.599999999999994)" fill="White" stroke="white"><title>Pos: 165
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(250.79999999999998,57.599999999999994)" fill="White" stroke="white"><title>Pos: 166
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(267.52,57.599999999999994)" fill="White" stroke="white"><title>Pos: 167
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(284.24,57.599999999999994)" fill="White" stroke="white"><title>Pos: 168
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(300.96,57.599999999999994)" fill="White" stroke="white"><title>Pos: 169
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(317.67999999999995,57.599999999999994)" fill="White" stroke="white"><title>Pos: 170
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(334.4,57.599999999999994)" fill="White" stroke="white"><title>Pos: 171
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(351.12,57.599999999999994)" fill="White" stroke="white"><title>Pos: 172
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(367.84,57.599999999999994)" fill="White" stroke="white"><title>Pos: 173
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(384.55999999999995,57.599999999999994)" fill="White" stroke="white"><title>Pos: 174
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(401.28,57.599999999999994)" fill="White" stroke="white"><title>Pos: 175
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(418,57.599999999999994)" fill="White" stroke="white"><title>Pos: 176
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(434.71999999999997,57.599999999999994)" fill="White" stroke="white"><title>Pos: 177
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(451.43999999999994,57.599999999999994)" fill="White" stroke="white"><title>Pos: 178
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(468.15999999999997,57.599999999999994)" fill="White" stroke="white"><title>Pos: 179
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(484.88,57.599999999999994)" fill="White" stroke="white"><title>Pos: 180
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(501.59999999999997,57.599999999999994)" fill="White" stroke="white"><title>Pos: 181
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(518.3199999999999,57.599999999999994)" fill="White" stroke="white"><title>Pos: 182
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(535.04,57.599999999999994)" fill="White" stroke="white"><title>Pos: 183
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(551.76,57.599999999999994)" fill="White" stroke="white"><title>Pos: 184
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(568.48,57.599999999999994)" fill="White" stroke="white"><title>Pos: 185
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(585.1999999999999,57.599999999999994)" fill="White" stroke="white"><title>Pos: 186
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(601.92,57.599999999999994)" fill="White" stroke="white"><title>Pos: 187
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(618.64,57.599999999999994)" fill="White" stroke="white"><title>Pos: 188
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(635.3599999999999,57.599999999999994)" fill="White" stroke="white"><title>Pos: 189
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(652.0799999999999,57.599999999999994)" fill="White" stroke="white"><title>Pos: 190
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(668.8,57.599999999999994)" fill="White" stroke="white"><title>Pos: 191
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(685.52,57.599999999999994)" fill="White" stroke="white"><title>Pos: 192
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(702.24,57.599999999999994)" fill="White" stroke="white"><title>Pos: 193
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(718.9599999999999,57.599999999999994)" fill="White" stroke="white"><title>Pos: 194
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(735.68,57.599999999999994)" fill="White" stroke="white"><title>Pos: 195
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(752.4,57.599999999999994)" fill="White" stroke="white"><title>Pos: 196
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(769.1199999999999,57.599999999999994)" fill="White" stroke="white"><title>Pos: 197
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(785.8399999999999,57.599999999999994)" fill="White" stroke="white"><title>Pos: 198
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(802.56,57.599999999999994)" fill="White" stroke="white"><title>Pos: 199
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(819.28,57.599999999999994)" fill="White" stroke="white"><title>Pos: 200
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(0,76.8)" fill="White" stroke="white"><title>Pos: 201
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(16.72,76.8)" fill="White" stroke="white"><title>Pos: 202
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(33.44,76.8)" fill="White" stroke="white"><title>Pos: 203
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(50.16,76.8)" fill="White" stroke="white"><title>Pos: 204
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(66.88,76.8)" fill="White" stroke="white"><title>Pos: 205
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(83.6,76.8)" fill="White" stroke="white"><title>Pos: 206
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(100.32,76.8)" fill="White" stroke="white"><title>Pos: 207
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(117.03999999999999,76.8)" fill="White" stroke="white"><title>Pos: 208
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(133.76,76.8)" fill="White" stroke="white"><title>Pos: 209
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(150.48,76.8)" fill="White" stroke="white"><title>Pos: 210
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(167.2,76.8)" fill="White" stroke="white"><title>Pos: 211
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(183.92,76.8)" fill="White" stroke="white"><title>Pos: 212
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(200.64,76.8)" fill="White" stroke="white"><title>Pos: 213
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(217.35999999999999,76.8)" fill="White" stroke="white"><title>Pos: 214
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(234.07999999999998,76.8)" fill="White" stroke="white"><title>Pos: 215
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(250.79999999999998,76.8)" fill="White" stroke="white"><title>Pos: 216
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(267.52,76.8)" fill="White" stroke="white"><title>Pos: 217
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(284.24,76.8)" fill="White" stroke="white"><title>Pos: 218
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(300.96,76.8)" fill="White" stroke="white"><title>Pos: 219
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(317.67999999999995,76.8)" fill="White" stroke="white"><title>Pos: 220
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(334.4,76.8)" fill="White" stroke="white"><title>Pos: 221
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(351.12,76.8)" fill="White" stroke="white"><title>Pos: 222
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(367.84,76.8)" fill="White" stroke="white"><title>Pos: 223
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(384.55999999999995,76.8)" fill="White" stroke="white"><title>Pos: 224
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(401.28,76.8)" fill="White" stroke="white"><title>Pos: 225
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(418,76.8)" fill="White" stroke="white"><title>Pos: 226
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(434.71999999999997,76.8)" fill="White" stroke="white"><title>Pos: 227
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(451.43999999999994,76.8)" fill="White" stroke="white"><title>Pos: 228
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(468.15999999999997,76.8)" fill="White" stroke="white"><title>Pos: 229
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(484.88,76.8)" fill="White" stroke="white"><title>Pos: 230
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(501.59999999999997,76.8)" fill="White" stroke="white"><title>Pos: 231
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(518.3199999999999,76.8)" fill="White" stroke="white"><title>Pos: 232
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(535.04,76.8)" fill="White" stroke="white"><title>Pos: 233
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(551.76,76.8)" fill="White" stroke="white"><title>Pos: 234
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(568.48,76.8)" fill="White" stroke="white"><title>Pos: 235
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(585.1999999999999,76.8)" fill="White" stroke="white"><title>Pos: 236
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(601.92,76.8)" fill="White" stroke="white"><title>Pos: 237
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(618.64,76.8)" fill="White" stroke="white"><title>Pos: 238
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(635.3599999999999,76.8)" fill="White" stroke="white"><title>Pos: 239
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(652.0799999999999,76.8)" fill="White" stroke="white"><title>Pos: 240
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(668.8,76.8)" fill="White" stroke="white"><title>Pos: 241
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(685.52,76.8)" fill="White" stroke="white"><title>Pos: 242
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(702.24,76.8)" fill="White" stroke="white"><title>Pos: 243
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(718.9599999999999,76.8)" fill="White" stroke="white"><title>Pos: 244
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(735.68,76.8)" fill="White" stroke="white"><title>Pos: 245
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(752.4,76.8)" fill="White" stroke="white"><title>Pos: 246
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(769.1199999999999,76.8)" fill="White" stroke="white"><title>Pos: 247
+ss: H
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(785.8399999999999,76.8)" fill="White" stroke="white"><title>Pos: 248
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(802.56,76.8)" fill="White" stroke="white"><title>Pos: 249
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(819.28,76.8)" fill="White" stroke="white"><title>Pos: 250
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(0,96)" fill="White" stroke="white"><title>Pos: 251
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(16.72,96)" fill="White" stroke="white"><title>Pos: 252
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(33.44,96)" fill="White" stroke="white"><title>Pos: 253
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(50.16,96)" fill="White" stroke="white"><title>Pos: 254
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(66.88,96)" fill="White" stroke="white"><title>Pos: 255
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(83.6,96)" fill="White" stroke="white"><title>Pos: 256
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(100.32,96)" fill="White" stroke="white"><title>Pos: 257
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(117.03999999999999,96)" fill="White" stroke="white"><title>Pos: 258
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(133.76,96)" fill="White" stroke="white"><title>Pos: 259
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(150.48,96)" fill="White" stroke="white"><title>Pos: 260
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(167.2,96)" fill="White" stroke="white"><title>Pos: 261
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(183.92,96)" fill="White" stroke="white"><title>Pos: 262
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(200.64,96)" fill="White" stroke="white"><title>Pos: 263
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(217.35999999999999,96)" fill="White" stroke="white"><title>Pos: 264
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(234.07999999999998,96)" fill="White" stroke="white"><title>Pos: 265
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(250.79999999999998,96)" fill="White" stroke="white"><title>Pos: 266
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(267.52,96)" fill="White" stroke="white"><title>Pos: 267
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(284.24,96)" fill="White" stroke="white"><title>Pos: 268
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(300.96,96)" fill="White" stroke="white"><title>Pos: 269
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(317.67999999999995,96)" fill="White" stroke="white"><title>Pos: 270
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(334.4,96)" fill="White" stroke="white"><title>Pos: 271
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(351.12,96)" fill="White" stroke="white"><title>Pos: 272
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(367.84,96)" fill="White" stroke="white"><title>Pos: 273
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(384.55999999999995,96)" fill="White" stroke="white"><title>Pos: 274
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(401.28,96)" fill="White" stroke="white"><title>Pos: 275
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(418,96)" fill="White" stroke="white"><title>Pos: 276
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(434.71999999999997,96)" fill="White" stroke="white"><title>Pos: 277
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(451.43999999999994,96)" fill="White" stroke="white"><title>Pos: 278
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(468.15999999999997,96)" fill="White" stroke="white"><title>Pos: 279
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(484.88,96)" fill="White" stroke="white"><title>Pos: 280
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(501.59999999999997,96)" fill="White" stroke="white"><title>Pos: 281
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(518.3199999999999,96)" fill="White" stroke="white"><title>Pos: 282
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(535.04,96)" fill="White" stroke="white"><title>Pos: 283
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(551.76,96)" fill="White" stroke="white"><title>Pos: 284
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(568.48,96)" fill="White" stroke="white"><title>Pos: 285
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(585.1999999999999,96)" fill="White" stroke="white"><title>Pos: 286
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(601.92,96)" fill="White" stroke="white"><title>Pos: 287
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(618.64,96)" fill="White" stroke="white"><title>Pos: 288
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(635.3599999999999,96)" fill="White" stroke="white"><title>Pos: 289
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(652.0799999999999,96)" fill="White" stroke="white"><title>Pos: 290
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(668.8,96)" fill="White" stroke="white"><title>Pos: 291
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(685.52,96)" fill="White" stroke="white"><title>Pos: 292
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(702.24,96)" fill="White" stroke="white"><title>Pos: 293
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(718.9599999999999,96)" fill="White" stroke="white"><title>Pos: 294
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(735.68,96)" fill="White" stroke="white"><title>Pos: 295
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(752.4,96)" fill="White" stroke="white"><title>Pos: 296
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(769.1199999999999,96)" fill="White" stroke="white"><title>Pos: 297
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(785.8399999999999,96)" fill="White" stroke="white"><title>Pos: 298
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(802.56,96)" fill="White" stroke="white"><title>Pos: 299
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(819.28,96)" fill="White" stroke="white"><title>Pos: 300
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(0,115.2)" fill="White" stroke="white"><title>Pos: 301
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(16.72,115.2)" fill="White" stroke="white"><title>Pos: 302
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(33.44,115.2)" fill="White" stroke="white"><title>Pos: 303
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(50.16,115.2)" fill="White" stroke="white"><title>Pos: 304
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(66.88,115.2)" fill="White" stroke="white"><title>Pos: 305
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(83.6,115.2)" fill="White" stroke="white"><title>Pos: 306
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(100.32,115.2)" fill="White" stroke="white"><title>Pos: 307
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(117.03999999999999,115.2)" fill="White" stroke="white"><title>Pos: 308
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(133.76,115.2)" fill="White" stroke="white"><title>Pos: 309
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(150.48,115.2)" fill="White" stroke="white"><title>Pos: 310
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(167.2,115.2)" fill="White" stroke="white"><title>Pos: 311
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(183.92,115.2)" fill="White" stroke="white"><title>Pos: 312
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(200.64,115.2)" fill="White" stroke="white"><title>Pos: 313
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(217.35999999999999,115.2)" fill="White" stroke="white"><title>Pos: 314
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(234.07999999999998,115.2)" fill="White" stroke="white"><title>Pos: 315
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(250.79999999999998,115.2)" fill="White" stroke="white"><title>Pos: 316
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(267.52,115.2)" fill="White" stroke="white"><title>Pos: 317
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(284.24,115.2)" fill="White" stroke="white"><title>Pos: 318
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(300.96,115.2)" fill="White" stroke="white"><title>Pos: 319
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(317.67999999999995,115.2)" fill="White" stroke="white"><title>Pos: 320
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(334.4,115.2)" fill="White" stroke="white"><title>Pos: 321
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(351.12,115.2)" fill="White" stroke="white"><title>Pos: 322
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(367.84,115.2)" fill="White" stroke="white"><title>Pos: 323
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(384.55999999999995,115.2)" fill="White" stroke="white"><title>Pos: 324
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(401.28,115.2)" fill="White" stroke="white"><title>Pos: 325
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(418,115.2)" fill="White" stroke="white"><title>Pos: 326
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(434.71999999999997,115.2)" fill="White" stroke="white"><title>Pos: 327
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(451.43999999999994,115.2)" fill="White" stroke="white"><title>Pos: 328
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(468.15999999999997,115.2)" fill="White" stroke="white"><title>Pos: 329
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(484.88,115.2)" fill="White" stroke="white"><title>Pos: 330
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(501.59999999999997,115.2)" fill="White" stroke="white"><title>Pos: 331
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(518.3199999999999,115.2)" fill="White" stroke="white"><title>Pos: 332
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(535.04,115.2)" fill="White" stroke="white"><title>Pos: 333
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(551.76,115.2)" fill="White" stroke="white"><title>Pos: 334
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(568.48,115.2)" fill="White" stroke="white"><title>Pos: 335
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(585.1999999999999,115.2)" fill="White" stroke="white"><title>Pos: 336
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(601.92,115.2)" fill="White" stroke="white"><title>Pos: 337
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(618.64,115.2)" fill="White" stroke="white"><title>Pos: 338
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(635.3599999999999,115.2)" fill="White" stroke="white"><title>Pos: 339
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(652.0799999999999,115.2)" fill="White" stroke="white"><title>Pos: 340
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(668.8,115.2)" fill="White" stroke="white"><title>Pos: 341
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(685.52,115.2)" fill="White" stroke="white"><title>Pos: 342
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(702.24,115.2)" fill="White" stroke="white"><title>Pos: 343
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(718.9599999999999,115.2)" fill="White" stroke="white"><title>Pos: 344
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(735.68,115.2)" fill="White" stroke="white"><title>Pos: 345
+ss: C
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(752.4,115.2)" fill="White" stroke="white"><title>Pos: 346
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(769.1199999999999,115.2)" fill="White" stroke="white"><title>Pos: 347
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(785.8399999999999,115.2)" fill="White" stroke="white"><title>Pos: 348
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(802.56,115.2)" fill="White" stroke="white"><title>Pos: 349
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(819.28,115.2)" fill="White" stroke="white"><title>Pos: 350
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(0,134.4)" fill="White" stroke="white"><title>Pos: 351
+ss: E
+memsat: CY
+</title></rect><rect class="rect" width="17.6" height="17.6" transform="translate(16.72,134.4)" fill="White" stroke="white"><title>Pos: 352
+ss: C
+memsat: CY
+</title></rect><text transform="translate(5,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">D<title>Pos: 1
+ss: C
+memsat: EC
+</title></text><text transform="translate(21.72,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">M<title>Pos: 2
+ss: C
+memsat: EC
+</title></text><text transform="translate(38.44,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">G<title>Pos: 3
+ss: C
+memsat: EC
+</title></text><text transform="translate(55.16,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">C<title>Pos: 4
+ss: C
+memsat: EC
+</title></text><text transform="translate(71.88,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">V<title>Pos: 5
+ss: E
+memsat: EC
+</title></text><text transform="translate(88.6,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">I<title>Pos: 6
+ss: E
+memsat: EC
+</title></text><text transform="translate(105.32,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">N<title>Pos: 7
+ss: E
+memsat: EC
+</title></text><text transform="translate(122.03999999999999,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">W<title>Pos: 8
+ss: C
+memsat: EC
+</title></text><text transform="translate(138.76,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">K<title>Pos: 9
+ss: C
+memsat: EC
+</title></text><text transform="translate(155.48,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">G<title>Pos: 10
+ss: C
+memsat: EC
+</title></text><text transform="translate(172.2,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">K<title>Pos: 11
+ss: C
+memsat: EC
+</title></text><text transform="translate(188.92,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">E<title>Pos: 12
+ss: E
+memsat: EC
+</title></text><text transform="translate(205.64,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">L<title>Pos: 13
+ss: E
+memsat: EC
+</title></text><text transform="translate(222.35999999999999,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">K<title>Pos: 14
+ss: E
+memsat: EC
+</title></text><text transform="translate(239.07999999999998,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">C<title>Pos: 15
+ss: E
+memsat: EC
+</title></text><text transform="translate(255.79999999999998,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">G<title>Pos: 16
+ss: C
+memsat: EC
+</title></text><text transform="translate(272.52,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">S<title>Pos: 17
+ss: E
+memsat: EC
+</title></text><text transform="translate(289.24,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">G<title>Pos: 18
+ss: E
+memsat: EC
+</title></text><text transform="translate(305.96,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">I<title>Pos: 19
+ss: E
+memsat: EC
+</title></text><text transform="translate(322.67999999999995,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">F<title>Pos: 20
+ss: E
+memsat: EC
+</title></text><text transform="translate(339.4,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">V<title>Pos: 21
+ss: E
+memsat: EC
+</title></text><text transform="translate(356.12,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">T<title>Pos: 22
+ss: E
+memsat: EC
+</title></text><text transform="translate(372.84,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">N<title>Pos: 23
+ss: C
+memsat: EC
+</title></text><text transform="translate(389.55999999999995,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">E<title>Pos: 24
+ss: C
+memsat: EC
+</title></text><text transform="translate(406.28,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">V<title>Pos: 25
+ss: C
+memsat: EC
+</title></text><text transform="translate(423,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">H<title>Pos: 26
+ss: C
+memsat: EC
+</title></text><text transform="translate(439.71999999999997,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">T<title>Pos: 27
+ss: C
+memsat: EC
+</title></text><text transform="translate(456.43999999999994,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">W<title>Pos: 28
+ss: C
+memsat: EC
+</title></text><text transform="translate(473.15999999999997,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">T<title>Pos: 29
+ss: E
+memsat: EC
+</title></text><text transform="translate(489.88,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">E<title>Pos: 30
+ss: E
+memsat: EC
+</title></text><text transform="translate(506.59999999999997,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">Q<title>Pos: 31
+ss: E
+memsat: EC
+</title></text><text transform="translate(523.3199999999999,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">Y<title>Pos: 32
+ss: E
+memsat: EC
+</title></text><text transform="translate(540.04,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">K<title>Pos: 33
+ss: E
+memsat: EC
+</title></text><text transform="translate(556.76,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">F<title>Pos: 34
+ss: E
+memsat: EC
+</title></text><text transform="translate(573.48,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">Q<title>Pos: 35
+ss: E
+memsat: EC
+</title></text><text transform="translate(590.1999999999999,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">A<title>Pos: 36
+ss: C
+memsat: EC
+</title></text><text transform="translate(606.92,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">D<title>Pos: 37
+ss: C
+memsat: EC
+</title></text><text transform="translate(623.64,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">S<title>Pos: 38
+ss: C
+memsat: EC
+</title></text><text transform="translate(640.3599999999999,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">P<title>Pos: 39
+ss: H
+memsat: EC
+</title></text><text transform="translate(657.0799999999999,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">K<title>Pos: 40
+ss: H
+memsat: EC
+</title></text><text transform="translate(673.8,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">R<title>Pos: 41
+ss: H
+memsat: EC
+</title></text><text transform="translate(690.52,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">L<title>Pos: 42
+ss: H
+memsat: EC
+</title></text><text transform="translate(707.24,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">A<title>Pos: 43
+ss: H
+memsat: EC
+</title></text><text transform="translate(723.9599999999999,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">T<title>Pos: 44
+ss: H
+memsat: EC
+</title></text><text transform="translate(740.68,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">A<title>Pos: 45
+ss: H
+memsat: EC
+</title></text><text transform="translate(757.4,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">I<title>Pos: 46
+ss: H
+memsat: TM
+</title></text><text transform="translate(774.1199999999999,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">A<title>Pos: 47
+ss: H
+memsat: TM
+</title></text><text transform="translate(790.8399999999999,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">G<title>Pos: 48
+ss: H
+memsat: TM
+</title></text><text transform="translate(807.56,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">A<title>Pos: 49
+ss: H
+memsat: TM
+</title></text><text transform="translate(824.28,12.8)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">W<title>Pos: 50
+ss: H
+memsat: TM
+</title></text><text transform="translate(5,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">E<title>Pos: 51
+ss: H
+memsat: TM
+</title></text><text transform="translate(21.72,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">N<title>Pos: 52
+ss: C
+memsat: TM
+</title></text><text transform="translate(38.44,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">G<title>Pos: 53
+ss: C
+memsat: TM
+</title></text><text transform="translate(55.16,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">V<title>Pos: 54
+ss: C
+memsat: TM
+</title></text><text transform="translate(71.88,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">C<title>Pos: 55
+ss: E
+memsat: TM
+</title></text><text transform="translate(88.6,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">G<title>Pos: 56
+ss: E
+memsat: TM
+</title></text><text transform="translate(105.32,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">I<title>Pos: 57
+ss: E
+memsat: TM
+</title></text><text transform="translate(122.03999999999999,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">R<title>Pos: 58
+ss: E
+memsat: TM
+</title></text><text transform="translate(138.76,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">S<title>Pos: 59
+ss: E
+memsat: TM
+</title></text><text transform="translate(155.48,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">T<title>Pos: 60
+ss: C
+memsat: TM
+</title></text><text transform="translate(172.2,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">T<title>Pos: 61
+ss: C
+memsat: TM
+</title></text><text transform="translate(188.92,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">R<title>Pos: 62
+ss: H
+memsat: CY
+</title></text><text transform="translate(205.64,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">M<title>Pos: 63
+ss: H
+memsat: CY
+</title></text><text transform="translate(222.35999999999999,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">E<title>Pos: 64
+ss: H
+memsat: CY
+</title></text><text transform="translate(239.07999999999998,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">N<title>Pos: 65
+ss: H
+memsat: CY
+</title></text><text transform="translate(255.79999999999998,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">L<title>Pos: 66
+ss: H
+memsat: CY
+</title></text><text transform="translate(272.52,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">L<title>Pos: 67
+ss: H
+memsat: CY
+</title></text><text transform="translate(289.24,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">W<title>Pos: 68
+ss: H
+memsat: CY
+</title></text><text transform="translate(305.96,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">K<title>Pos: 69
+ss: H
+memsat: CY
+</title></text><text transform="translate(322.67999999999995,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">Q<title>Pos: 70
+ss: H
+memsat: CY
+</title></text><text transform="translate(339.4,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">I<title>Pos: 71
+ss: H
+memsat: CY
+</title></text><text transform="translate(356.12,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">A<title>Pos: 72
+ss: H
+memsat: CY
+</title></text><text transform="translate(372.84,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">N<title>Pos: 73
+ss: H
+memsat: CY
+</title></text><text transform="translate(389.55999999999995,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">E<title>Pos: 74
+ss: H
+memsat: CY
+</title></text><text transform="translate(406.28,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">L<title>Pos: 75
+ss: H
+memsat: CY
+</title></text><text transform="translate(423,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">N<title>Pos: 76
+ss: H
+memsat: CY
+</title></text><text transform="translate(439.71999999999997,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">Y<title>Pos: 77
+ss: H
+memsat: CY
+</title></text><text transform="translate(456.43999999999994,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">I<title>Pos: 78
+ss: H
+memsat: CY
+</title></text><text transform="translate(473.15999999999997,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">L<title>Pos: 79
+ss: H
+memsat: CY
+</title></text><text transform="translate(489.88,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">W<title>Pos: 80
+ss: H
+memsat: CY
+</title></text><text transform="translate(506.59999999999997,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">E<title>Pos: 81
+ss: H
+memsat: CY
+</title></text><text transform="translate(523.3199999999999,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">N<title>Pos: 82
+ss: C
+memsat: CY
+</title></text><text transform="translate(540.04,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">N<title>Pos: 83
+ss: C
+memsat: CY
+</title></text><text transform="translate(556.76,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">I<title>Pos: 84
+ss: C
+memsat: CY
+</title></text><text transform="translate(573.48,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">K<title>Pos: 85
+ss: C
+memsat: CY
+</title></text><text transform="translate(590.1999999999999,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">L<title>Pos: 86
+ss: E
+memsat: CY
+</title></text><text transform="translate(606.92,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">T<title>Pos: 87
+ss: E
+memsat: CY
+</title></text><text transform="translate(623.64,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">V<title>Pos: 88
+ss: E
+memsat: CY
+</title></text><text transform="translate(640.3599999999999,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">V<title>Pos: 89
+ss: E
+memsat: CY
+</title></text><text transform="translate(657.0799999999999,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">V<title>Pos: 90
+ss: E
+memsat: CY
+</title></text><text transform="translate(673.8,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">G<title>Pos: 91
+ss: C
+memsat: CY
+</title></text><text transform="translate(690.52,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">D<title>Pos: 92
+ss: C
+memsat: CY
+</title></text><text transform="translate(707.24,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">T<title>Pos: 93
+ss: C
+memsat: CY
+</title></text><text transform="translate(723.9599999999999,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">L<title>Pos: 94
+ss: C
+memsat: CY
+</title></text><text transform="translate(740.68,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">G<title>Pos: 95
+ss: C
+memsat: CY
+</title></text><text transform="translate(757.4,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">V<title>Pos: 96
+ss: E
+memsat: CY
+</title></text><text transform="translate(774.1199999999999,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">L<title>Pos: 97
+ss: E
+memsat: CY
+</title></text><text transform="translate(790.8399999999999,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">E<title>Pos: 98
+ss: E
+memsat: CY
+</title></text><text transform="translate(807.56,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">Q<title>Pos: 99
+ss: C
+memsat: CY
+</title></text><text transform="translate(824.28,32)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">G<title>Pos: 100
+ss: C
+memsat: CY
+</title></text><text transform="translate(5,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">K<title>Pos: 101
+ss: C
+memsat: CY
+</title></text><text transform="translate(21.72,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">R<title>Pos: 102
+ss: E
+memsat: CY
+</title></text><text transform="translate(38.44,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">T<title>Pos: 103
+ss: E
+memsat: CY
+</title></text><text transform="translate(55.16,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">L<title>Pos: 104
+ss: E
+memsat: CY
+</title></text><text transform="translate(71.88,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">T<title>Pos: 105
+ss: C
+memsat: CY
+</title></text><text transform="translate(88.6,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">P<title>Pos: 106
+ss: C
+memsat: CY
+</title></text><text transform="translate(105.32,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">Q<title>Pos: 107
+ss: C
+memsat: CY
+</title></text><text transform="translate(122.03999999999999,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">P<title>Pos: 108
+ss: C
+memsat: CY
+</title></text><text transform="translate(138.76,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">M<title>Pos: 109
+ss: C
+memsat: CY
+</title></text><text transform="translate(155.48,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">E<title>Pos: 110
+ss: C
+memsat: CY
+</title></text><text transform="translate(172.2,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">L<title>Pos: 111
+ss: C
+memsat: CY
+</title></text><text transform="translate(188.92,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">K<title>Pos: 112
+ss: C
+memsat: CY
+</title></text><text transform="translate(205.64,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">Y<title>Pos: 113
+ss: C
+memsat: CY
+</title></text><text transform="translate(222.35999999999999,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">S<title>Pos: 114
+ss: C
+memsat: CY
+</title></text><text transform="translate(239.07999999999998,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">W<title>Pos: 115
+ss: E
+memsat: CY
+</title></text><text transform="translate(255.79999999999998,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">K<title>Pos: 116
+ss: E
+memsat: CY
+</title></text><text transform="translate(272.52,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">T<title>Pos: 117
+ss: E
+memsat: CY
+</title></text><text transform="translate(289.24,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">W<title>Pos: 118
+ss: E
+memsat: CY
+</title></text><text transform="translate(305.96,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">G<title>Pos: 119
+ss: E
+memsat: CY
+</title></text><text transform="translate(322.67999999999995,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">K<title>Pos: 120
+ss: E
+memsat: CY
+</title></text><text transform="translate(339.4,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">A<title>Pos: 121
+ss: E
+memsat: CY
+</title></text><text transform="translate(356.12,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">K<title>Pos: 122
+ss: E
+memsat: CY
+</title></text><text transform="translate(372.84,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">I<title>Pos: 123
+ss: E
+memsat: CY
+</title></text><text transform="translate(389.55999999999995,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">V<title>Pos: 124
+ss: E
+memsat: CY
+</title></text><text transform="translate(406.28,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">T<title>Pos: 125
+ss: C
+memsat: CY
+</title></text><text transform="translate(423,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">A<title>Pos: 126
+ss: C
+memsat: CY
+</title></text><text transform="translate(439.71999999999997,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">E<title>Pos: 127
+ss: C
+memsat: CY
+</title></text><text transform="translate(456.43999999999994,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">T<title>Pos: 128
+ss: C
+memsat: CY
+</title></text><text transform="translate(473.15999999999997,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">Q<title>Pos: 129
+ss: C
+memsat: CY
+</title></text><text transform="translate(489.88,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">N<title>Pos: 130
+ss: C
+memsat: CY
+</title></text><text transform="translate(506.59999999999997,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">S<title>Pos: 131
+ss: C
+memsat: CY
+</title></text><text transform="translate(523.3199999999999,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">S<title>Pos: 132
+ss: E
+memsat: CY
+</title></text><text transform="translate(540.04,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">F<title>Pos: 133
+ss: E
+memsat: CY
+</title></text><text transform="translate(556.76,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">I<title>Pos: 134
+ss: E
+memsat: CY
+</title></text><text transform="translate(573.48,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">I<title>Pos: 135
+ss: E
+memsat: CY
+</title></text><text transform="translate(590.1999999999999,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">D<title>Pos: 136
+ss: C
+memsat: CY
+</title></text><text transform="translate(606.92,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">G<title>Pos: 137
+ss: C
+memsat: CY
+</title></text><text transform="translate(623.64,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">P<title>Pos: 138
+ss: C
+memsat: CY
+</title></text><text transform="translate(640.3599999999999,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">N<title>Pos: 139
+ss: C
+memsat: CY
+</title></text><text transform="translate(657.0799999999999,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">T<title>Pos: 140
+ss: C
+memsat: CY
+</title></text><text transform="translate(673.8,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">P<title>Pos: 141
+ss: C
+memsat: CY
+</title></text><text transform="translate(690.52,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">E<title>Pos: 142
+ss: C
+memsat: CY
+</title></text><text transform="translate(707.24,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">C<title>Pos: 143
+ss: C
+memsat: CY
+</title></text><text transform="translate(723.9599999999999,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">P<title>Pos: 144
+ss: C
+memsat: CY
+</title></text><text transform="translate(740.68,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">S<title>Pos: 145
+ss: H
+memsat: CY
+</title></text><text transform="translate(757.4,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">A<title>Pos: 146
+ss: H
+memsat: CY
+</title></text><text transform="translate(774.1199999999999,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">S<title>Pos: 147
+ss: H
+memsat: CY
+</title></text><text transform="translate(790.8399999999999,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">R<title>Pos: 148
+ss: E
+memsat: CY
+</title></text><text transform="translate(807.56,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">A<title>Pos: 149
+ss: E
+memsat: CY
+</title></text><text transform="translate(824.28,51.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">W<title>Pos: 150
+ss: C
+memsat: CY
+</title></text><text transform="translate(5,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">N<title>Pos: 151
+ss: C
+memsat: CY
+</title></text><text transform="translate(21.72,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">V<title>Pos: 152
+ss: E
+memsat: CY
+</title></text><text transform="translate(38.44,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">W<title>Pos: 153
+ss: E
+memsat: CY
+</title></text><text transform="translate(55.16,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">E<title>Pos: 154
+ss: E
+memsat: CY
+</title></text><text transform="translate(71.88,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">V<title>Pos: 155
+ss: E
+memsat: CY
+</title></text><text transform="translate(88.6,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">E<title>Pos: 156
+ss: E
+memsat: CY
+</title></text><text transform="translate(105.32,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">D<title>Pos: 157
+ss: E
+memsat: CY
+</title></text><text transform="translate(122.03999999999999,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">Y<title>Pos: 158
+ss: E
+memsat: CY
+</title></text><text transform="translate(138.76,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">G<title>Pos: 159
+ss: E
+memsat: CY
+</title></text><text transform="translate(155.48,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">F<title>Pos: 160
+ss: E
+memsat: CY
+</title></text><text transform="translate(172.2,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">G<title>Pos: 161
+ss: E
+memsat: CY
+</title></text><text transform="translate(188.92,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">V<title>Pos: 162
+ss: E
+memsat: CY
+</title></text><text transform="translate(205.64,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">F<title>Pos: 163
+ss: E
+memsat: CY
+</title></text><text transform="translate(222.35999999999999,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">T<title>Pos: 164
+ss: E
+memsat: CY
+</title></text><text transform="translate(239.07999999999998,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">T<title>Pos: 165
+ss: E
+memsat: CY
+</title></text><text transform="translate(255.79999999999998,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">N<title>Pos: 166
+ss: E
+memsat: CY
+</title></text><text transform="translate(272.52,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">I<title>Pos: 167
+ss: E
+memsat: CY
+</title></text><text transform="translate(289.24,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">W<title>Pos: 168
+ss: E
+memsat: CY
+</title></text><text transform="translate(305.96,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">L<title>Pos: 169
+ss: E
+memsat: CY
+</title></text><text transform="translate(322.67999999999995,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">K<title>Pos: 170
+ss: E
+memsat: CY
+</title></text><text transform="translate(339.4,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">L<title>Pos: 171
+ss: E
+memsat: CY
+</title></text><text transform="translate(356.12,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">R<title>Pos: 172
+ss: C
+memsat: CY
+</title></text><text transform="translate(372.84,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">E<title>Pos: 173
+ss: C
+memsat: CY
+</title></text><text transform="translate(389.55999999999995,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">V<title>Pos: 174
+ss: H
+memsat: CY
+</title></text><text transform="translate(406.28,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">Y<title>Pos: 175
+ss: H
+memsat: CY
+</title></text><text transform="translate(423,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">T<title>Pos: 176
+ss: C
+memsat: CY
+</title></text><text transform="translate(439.71999999999997,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">Q<title>Pos: 177
+ss: C
+memsat: CY
+</title></text><text transform="translate(456.43999999999994,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">L<title>Pos: 178
+ss: C
+memsat: CY
+</title></text><text transform="translate(473.15999999999997,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">C<title>Pos: 179
+ss: C
+memsat: CY
+</title></text><text transform="translate(489.88,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">D<title>Pos: 180
+ss: C
+memsat: CY
+</title></text><text transform="translate(506.59999999999997,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">H<title>Pos: 181
+ss: H
+memsat: CY
+</title></text><text transform="translate(523.3199999999999,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">R<title>Pos: 182
+ss: H
+memsat: CY
+</title></text><text transform="translate(540.04,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">L<title>Pos: 183
+ss: H
+memsat: CY
+</title></text><text transform="translate(556.76,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">M<title>Pos: 184
+ss: H
+memsat: CY
+</title></text><text transform="translate(573.48,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">S<title>Pos: 185
+ss: H
+memsat: CY
+</title></text><text transform="translate(590.1999999999999,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">A<title>Pos: 186
+ss: H
+memsat: CY
+</title></text><text transform="translate(606.92,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">A<title>Pos: 187
+ss: H
+memsat: CY
+</title></text><text transform="translate(623.64,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">V<title>Pos: 188
+ss: E
+memsat: CY
+</title></text><text transform="translate(640.3599999999999,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">K<title>Pos: 189
+ss: E
+memsat: CY
+</title></text><text transform="translate(657.0799999999999,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">D<title>Pos: 190
+ss: C
+memsat: CY
+</title></text><text transform="translate(673.8,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">E<title>Pos: 191
+ss: C
+memsat: CY
+</title></text><text transform="translate(690.52,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">R<title>Pos: 192
+ss: E
+memsat: CY
+</title></text><text transform="translate(707.24,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">A<title>Pos: 193
+ss: E
+memsat: CY
+</title></text><text transform="translate(723.9599999999999,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">V<title>Pos: 194
+ss: E
+memsat: CY
+</title></text><text transform="translate(740.68,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">H<title>Pos: 195
+ss: E
+memsat: CY
+</title></text><text transform="translate(757.4,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">A<title>Pos: 196
+ss: E
+memsat: CY
+</title></text><text transform="translate(774.1199999999999,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">D<title>Pos: 197
+ss: C
+memsat: CY
+</title></text><text transform="translate(790.8399999999999,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">M<title>Pos: 198
+ss: C
+memsat: CY
+</title></text><text transform="translate(807.56,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">G<title>Pos: 199
+ss: C
+memsat: CY
+</title></text><text transform="translate(824.28,70.4)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">Y<title>Pos: 200
+ss: E
+memsat: CY
+</title></text><text transform="translate(5,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">W<title>Pos: 201
+ss: E
+memsat: CY
+</title></text><text transform="translate(21.72,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">I<title>Pos: 202
+ss: E
+memsat: CY
+</title></text><text transform="translate(38.44,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">E<title>Pos: 203
+ss: E
+memsat: CY
+</title></text><text transform="translate(55.16,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">S<title>Pos: 204
+ss: E
+memsat: CY
+</title></text><text transform="translate(71.88,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">Q<title>Pos: 205
+ss: C
+memsat: CY
+</title></text><text transform="translate(88.6,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">K<title>Pos: 206
+ss: C
+memsat: CY
+</title></text><text transform="translate(105.32,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">N<title>Pos: 207
+ss: C
+memsat: CY
+</title></text><text transform="translate(122.03999999999999,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">G<title>Pos: 208
+ss: C
+memsat: CY
+</title></text><text transform="translate(138.76,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">S<title>Pos: 209
+ss: E
+memsat: CY
+</title></text><text transform="translate(155.48,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">W<title>Pos: 210
+ss: E
+memsat: CY
+</title></text><text transform="translate(172.2,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">K<title>Pos: 211
+ss: E
+memsat: CY
+</title></text><text transform="translate(188.92,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">L<title>Pos: 212
+ss: E
+memsat: CY
+</title></text><text transform="translate(205.64,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">E<title>Pos: 213
+ss: E
+memsat: CY
+</title></text><text transform="translate(222.35999999999999,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">K<title>Pos: 214
+ss: E
+memsat: CY
+</title></text><text transform="translate(239.07999999999998,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">A<title>Pos: 215
+ss: E
+memsat: CY
+</title></text><text transform="translate(255.79999999999998,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">S<title>Pos: 216
+ss: E
+memsat: CY
+</title></text><text transform="translate(272.52,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">L<title>Pos: 217
+ss: E
+memsat: CY
+</title></text><text transform="translate(289.24,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">I<title>Pos: 218
+ss: E
+memsat: CY
+</title></text><text transform="translate(305.96,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">E<title>Pos: 219
+ss: E
+memsat: CY
+</title></text><text transform="translate(322.67999999999995,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">V<title>Pos: 220
+ss: C
+memsat: CY
+</title></text><text transform="translate(339.4,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">K<title>Pos: 221
+ss: E
+memsat: CY
+</title></text><text transform="translate(356.12,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">T<title>Pos: 222
+ss: E
+memsat: CY
+</title></text><text transform="translate(372.84,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">C<title>Pos: 223
+ss: C
+memsat: CY
+</title></text><text transform="translate(389.55999999999995,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">T<title>Pos: 224
+ss: C
+memsat: CY
+</title></text><text transform="translate(406.28,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">W<title>Pos: 225
+ss: C
+memsat: CY
+</title></text><text transform="translate(423,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">P<title>Pos: 226
+ss: C
+memsat: CY
+</title></text><text transform="translate(439.71999999999997,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">K<title>Pos: 227
+ss: C
+memsat: CY
+</title></text><text transform="translate(456.43999999999994,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">S<title>Pos: 228
+ss: C
+memsat: CY
+</title></text><text transform="translate(473.15999999999997,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">H<title>Pos: 229
+ss: C
+memsat: CY
+</title></text><text transform="translate(489.88,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">T<title>Pos: 230
+ss: C
+memsat: CY
+</title></text><text transform="translate(506.59999999999997,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">L<title>Pos: 231
+ss: C
+memsat: CY
+</title></text><text transform="translate(523.3199999999999,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">W<title>Pos: 232
+ss: C
+memsat: CY
+</title></text><text transform="translate(540.04,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">T<title>Pos: 233
+ss: C
+memsat: CY
+</title></text><text transform="translate(556.76,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">N<title>Pos: 234
+ss: C
+memsat: CY
+</title></text><text transform="translate(573.48,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">G<title>Pos: 235
+ss: C
+memsat: CY
+</title></text><text transform="translate(590.1999999999999,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">V<title>Pos: 236
+ss: C
+memsat: CY
+</title></text><text transform="translate(606.92,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">L<title>Pos: 237
+ss: C
+memsat: CY
+</title></text><text transform="translate(623.64,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">E<title>Pos: 238
+ss: H
+memsat: CY
+</title></text><text transform="translate(640.3599999999999,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">S<title>Pos: 239
+ss: H
+memsat: CY
+</title></text><text transform="translate(657.0799999999999,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">D<title>Pos: 240
+ss: C
+memsat: CY
+</title></text><text transform="translate(673.8,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">M<title>Pos: 241
+ss: C
+memsat: CY
+</title></text><text transform="translate(690.52,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">I<title>Pos: 242
+ss: C
+memsat: CY
+</title></text><text transform="translate(707.24,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">I<title>Pos: 243
+ss: C
+memsat: CY
+</title></text><text transform="translate(723.9599999999999,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">P<title>Pos: 244
+ss: C
+memsat: CY
+</title></text><text transform="translate(740.68,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">K<title>Pos: 245
+ss: H
+memsat: CY
+</title></text><text transform="translate(757.4,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">S<title>Pos: 246
+ss: H
+memsat: CY
+</title></text><text transform="translate(774.1199999999999,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">L<title>Pos: 247
+ss: H
+memsat: CY
+</title></text><text transform="translate(790.8399999999999,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">A<title>Pos: 248
+ss: C
+memsat: CY
+</title></text><text transform="translate(807.56,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">G<title>Pos: 249
+ss: C
+memsat: CY
+</title></text><text transform="translate(824.28,89.60000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">P<title>Pos: 250
+ss: C
+memsat: CY
+</title></text><text transform="translate(5,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">I<title>Pos: 251
+ss: C
+memsat: CY
+</title></text><text transform="translate(21.72,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">S<title>Pos: 252
+ss: C
+memsat: CY
+</title></text><text transform="translate(38.44,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">Q<title>Pos: 253
+ss: C
+memsat: CY
+</title></text><text transform="translate(55.16,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">H<title>Pos: 254
+ss: C
+memsat: CY
+</title></text><text transform="translate(71.88,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">N<title>Pos: 255
+ss: C
+memsat: CY
+</title></text><text transform="translate(88.6,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">Y<title>Pos: 256
+ss: C
+memsat: CY
+</title></text><text transform="translate(105.32,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">R<title>Pos: 257
+ss: C
+memsat: CY
+</title></text><text transform="translate(122.03999999999999,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">P<title>Pos: 258
+ss: C
+memsat: CY
+</title></text><text transform="translate(138.76,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">G<title>Pos: 259
+ss: C
+memsat: CY
+</title></text><text transform="translate(155.48,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">Y<title>Pos: 260
+ss: C
+memsat: CY
+</title></text><text transform="translate(172.2,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">H<title>Pos: 261
+ss: C
+memsat: CY
+</title></text><text transform="translate(188.92,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">T<title>Pos: 262
+ss: C
+memsat: CY
+</title></text><text transform="translate(205.64,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">Q<title>Pos: 263
+ss: C
+memsat: CY
+</title></text><text transform="translate(222.35999999999999,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">T<title>Pos: 264
+ss: C
+memsat: CY
+</title></text><text transform="translate(239.07999999999998,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">A<title>Pos: 265
+ss: C
+memsat: CY
+</title></text><text transform="translate(255.79999999999998,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">G<title>Pos: 266
+ss: C
+memsat: CY
+</title></text><text transform="translate(272.52,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">P<title>Pos: 267
+ss: C
+memsat: CY
+</title></text><text transform="translate(289.24,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">W<title>Pos: 268
+ss: C
+memsat: CY
+</title></text><text transform="translate(305.96,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">H<title>Pos: 269
+ss: C
+memsat: CY
+</title></text><text transform="translate(322.67999999999995,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">L<title>Pos: 270
+ss: C
+memsat: CY
+</title></text><text transform="translate(339.4,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">G<title>Pos: 271
+ss: C
+memsat: CY
+</title></text><text transform="translate(356.12,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">K<title>Pos: 272
+ss: C
+memsat: CY
+</title></text><text transform="translate(372.84,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">L<title>Pos: 273
+ss: E
+memsat: CY
+</title></text><text transform="translate(389.55999999999995,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">E<title>Pos: 274
+ss: E
+memsat: CY
+</title></text><text transform="translate(406.28,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">L<title>Pos: 275
+ss: E
+memsat: CY
+</title></text><text transform="translate(423,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">D<title>Pos: 276
+ss: E
+memsat: CY
+</title></text><text transform="translate(439.71999999999997,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">F<title>Pos: 277
+ss: E
+memsat: CY
+</title></text><text transform="translate(456.43999999999994,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">N<title>Pos: 278
+ss: E
+memsat: CY
+</title></text><text transform="translate(473.15999999999997,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">Y<title>Pos: 279
+ss: E
+memsat: CY
+</title></text><text transform="translate(489.88,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">C<title>Pos: 280
+ss: C
+memsat: CY
+</title></text><text transform="translate(506.59999999999997,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">E<title>Pos: 281
+ss: C
+memsat: CY
+</title></text><text transform="translate(523.3199999999999,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">G<title>Pos: 282
+ss: C
+memsat: CY
+</title></text><text transform="translate(540.04,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">T<title>Pos: 283
+ss: C
+memsat: CY
+</title></text><text transform="translate(556.76,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">T<title>Pos: 284
+ss: E
+memsat: CY
+</title></text><text transform="translate(573.48,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">V<title>Pos: 285
+ss: E
+memsat: CY
+</title></text><text transform="translate(590.1999999999999,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">V<title>Pos: 286
+ss: E
+memsat: CY
+</title></text><text transform="translate(606.92,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">I<title>Pos: 287
+ss: E
+memsat: CY
+</title></text><text transform="translate(623.64,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">T<title>Pos: 288
+ss: C
+memsat: CY
+</title></text><text transform="translate(640.3599999999999,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">E<title>Pos: 289
+ss: C
+memsat: CY
+</title></text><text transform="translate(657.0799999999999,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">S<title>Pos: 290
+ss: C
+memsat: CY
+</title></text><text transform="translate(673.8,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">C<title>Pos: 291
+ss: C
+memsat: CY
+</title></text><text transform="translate(690.52,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">G<title>Pos: 292
+ss: C
+memsat: CY
+</title></text><text transform="translate(707.24,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">T<title>Pos: 293
+ss: C
+memsat: CY
+</title></text><text transform="translate(723.9599999999999,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">R<title>Pos: 294
+ss: C
+memsat: CY
+</title></text><text transform="translate(740.68,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">G<title>Pos: 295
+ss: C
+memsat: CY
+</title></text><text transform="translate(757.4,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">P<title>Pos: 296
+ss: C
+memsat: CY
+</title></text><text transform="translate(774.1199999999999,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">S<title>Pos: 297
+ss: C
+memsat: CY
+</title></text><text transform="translate(790.8399999999999,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">L<title>Pos: 298
+ss: C
+memsat: CY
+</title></text><text transform="translate(807.56,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">R<title>Pos: 299
+ss: E
+memsat: CY
+</title></text><text transform="translate(824.28,108.80000000000001)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">T<title>Pos: 300
+ss: E
+memsat: CY
+</title></text><text transform="translate(5,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">T<title>Pos: 301
+ss: E
+memsat: CY
+</title></text><text transform="translate(21.72,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">T<title>Pos: 302
+ss: E
+memsat: CY
+</title></text><text transform="translate(38.44,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">V<title>Pos: 303
+ss: C
+memsat: CY
+</title></text><text transform="translate(55.16,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">S<title>Pos: 304
+ss: C
+memsat: CY
+</title></text><text transform="translate(71.88,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">G<title>Pos: 305
+ss: C
+memsat: CY
+</title></text><text transform="translate(88.6,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">K<title>Pos: 306
+ss: C
+memsat: CY
+</title></text><text transform="translate(105.32,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">L<title>Pos: 307
+ss: C
+memsat: CY
+</title></text><text transform="translate(122.03999999999999,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">I<title>Pos: 308
+ss: C
+memsat: CY
+</title></text><text transform="translate(138.76,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">H<title>Pos: 309
+ss: C
+memsat: CY
+</title></text><text transform="translate(155.48,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">E<title>Pos: 310
+ss: C
+memsat: CY
+</title></text><text transform="translate(172.2,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">W<title>Pos: 311
+ss: E
+memsat: CY
+</title></text><text transform="translate(188.92,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">C<title>Pos: 312
+ss: E
+memsat: CY
+</title></text><text transform="translate(205.64,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">C<title>Pos: 313
+ss: C
+memsat: CY
+</title></text><text transform="translate(222.35999999999999,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">R<title>Pos: 314
+ss: C
+memsat: CY
+</title></text><text transform="translate(239.07999999999998,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">S<title>Pos: 315
+ss: C
+memsat: CY
+</title></text><text transform="translate(255.79999999999998,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">C<title>Pos: 316
+ss: C
+memsat: CY
+</title></text><text transform="translate(272.52,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">T<title>Pos: 317
+ss: C
+memsat: CY
+</title></text><text transform="translate(289.24,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">L<title>Pos: 318
+ss: C
+memsat: CY
+</title></text><text transform="translate(305.96,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">P<title>Pos: 319
+ss: C
+memsat: CY
+</title></text><text transform="translate(322.67999999999995,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">P<title>Pos: 320
+ss: C
+memsat: CY
+</title></text><text transform="translate(339.4,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">L<title>Pos: 321
+ss: E
+memsat: CY
+</title></text><text transform="translate(356.12,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">R<title>Pos: 322
+ss: E
+memsat: CY
+</title></text><text transform="translate(372.84,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">Y<title>Pos: 323
+ss: E
+memsat: CY
+</title></text><text transform="translate(389.55999999999995,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">M<title>Pos: 324
+ss: E
+memsat: CY
+</title></text><text transform="translate(406.28,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">G<title>Pos: 325
+ss: C
+memsat: CY
+</title></text><text transform="translate(423,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">E<title>Pos: 326
+ss: C
+memsat: CY
+</title></text><text transform="translate(439.71999999999997,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">D<title>Pos: 327
+ss: C
+memsat: CY
+</title></text><text transform="translate(456.43999999999994,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">G<title>Pos: 328
+ss: C
+memsat: CY
+</title></text><text transform="translate(473.15999999999997,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">C<title>Pos: 329
+ss: E
+memsat: CY
+</title></text><text transform="translate(489.88,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">W<title>Pos: 330
+ss: E
+memsat: CY
+</title></text><text transform="translate(506.59999999999997,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">Y<title>Pos: 331
+ss: C
+memsat: CY
+</title></text><text transform="translate(523.3199999999999,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">G<title>Pos: 332
+ss: C
+memsat: CY
+</title></text><text transform="translate(540.04,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">M<title>Pos: 333
+ss: E
+memsat: CY
+</title></text><text transform="translate(556.76,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">E<title>Pos: 334
+ss: E
+memsat: CY
+</title></text><text transform="translate(573.48,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">I<title>Pos: 335
+ss: E
+memsat: CY
+</title></text><text transform="translate(590.1999999999999,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">R<title>Pos: 336
+ss: E
+memsat: CY
+</title></text><text transform="translate(606.92,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">P<title>Pos: 337
+ss: C
+memsat: CY
+</title></text><text transform="translate(623.64,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">I<title>Pos: 338
+ss: C
+memsat: CY
+</title></text><text transform="translate(640.3599999999999,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">S<title>Pos: 339
+ss: C
+memsat: CY
+</title></text><text transform="translate(657.0799999999999,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">E<title>Pos: 340
+ss: C
+memsat: CY
+</title></text><text transform="translate(673.8,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">K<title>Pos: 341
+ss: C
+memsat: CY
+</title></text><text transform="translate(690.52,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">E<title>Pos: 342
+ss: C
+memsat: CY
+</title></text><text transform="translate(707.24,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">E<title>Pos: 343
+ss: C
+memsat: CY
+</title></text><text transform="translate(723.9599999999999,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">N<title>Pos: 344
+ss: C
+memsat: CY
+</title></text><text transform="translate(740.68,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">M<title>Pos: 345
+ss: C
+memsat: CY
+</title></text><text transform="translate(757.4,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">V<title>Pos: 346
+ss: E
+memsat: CY
+</title></text><text transform="translate(774.1199999999999,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">K<title>Pos: 347
+ss: E
+memsat: CY
+</title></text><text transform="translate(790.8399999999999,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">S<title>Pos: 348
+ss: E
+memsat: CY
+</title></text><text transform="translate(807.56,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">L<title>Pos: 349
+ss: E
+memsat: CY
+</title></text><text transform="translate(824.28,128)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">V<title>Pos: 350
+ss: E
+memsat: CY
+</title></text><text transform="translate(5,147.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">S<title>Pos: 351
+ss: E
+memsat: CY
+</title></text><text transform="translate(21.72,147.2)" font-family="sans-serif" font-size="10.56" font-weight="bold" fill="black">A<title>Pos: 352
+ss: C
+memsat: CY
+</title></text></g><g id="axes" width="836" height="460" transform="translate(0,48)"><g class="axis y" transform="translate(32,32)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end"><g class="tick" opacity="1" transform="translate(0,9.5)"><text fill="currentColor" x="-9" dy="0.32em">1</text></g><g class="tick" opacity="1" transform="translate(0,28.5)"><text fill="currentColor" x="-9" dy="0.32em">51</text></g><g class="tick" opacity="1" transform="translate(0,47.5)"><text fill="currentColor" x="-9" dy="0.32em">101</text></g><g class="tick" opacity="1" transform="translate(0,66.5)"><text fill="currentColor" x="-9" dy="0.32em">151</text></g><g class="tick" opacity="1" transform="translate(0,85.5)"><text fill="currentColor" x="-9" dy="0.32em">201</text></g><g class="tick" opacity="1" transform="translate(0,104.5)"><text fill="currentColor" x="-9" dy="0.32em">251</text></g><g class="tick" opacity="1" transform="translate(0,123.5)"><text fill="currentColor" x="-9" dy="0.32em">301</text></g><g class="tick" opacity="1" transform="translate(0,142.5)"><text fill="currentColor" x="-9" dy="0.32em">351</text></g></g><g class="axis y" transform="translate(868,32)" fill="none" font-size="10" font-family="sans-serif" text-anchor="start"><g class="tick" opacity="1" transform="translate(0,9.5)"><text fill="currentColor" x="9" dy="0.32em">50</text></g><g class="tick" opacity="1" transform="translate(0,28.5)"><text fill="currentColor" x="9" dy="0.32em">100</text></g><g class="tick" opacity="1" transform="translate(0,47.5)"><text fill="currentColor" x="9" dy="0.32em">150</text></g><g class="tick" opacity="1" transform="translate(0,66.5)"><text fill="currentColor" x="9" dy="0.32em">200</text></g><g class="tick" opacity="1" transform="translate(0,85.5)"><text fill="currentColor" x="9" dy="0.32em">250</text></g><g class="tick" opacity="1" transform="translate(0,104.5)"><text fill="currentColor" x="9" dy="0.32em">300</text></g><g class="tick" opacity="1" transform="translate(0,123.5)"><text fill="currentColor" x="9" dy="0.32em">350</text></g><g class="tick" opacity="1" transform="translate(0,142.5)"><text fill="currentColor" x="9" dy="0.32em">352</text></g></g><g class="axis x" transform="translate(32,184)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle"><g class="tick" opacity="1" transform="translate(158.83999999999997,0)"><text fill="currentColor" y="9" dy="0.71em">10</text></g><g class="tick" opacity="1" transform="translate(326.03999999999996,0)"><text fill="currentColor" y="9" dy="0.71em">20</text></g><g class="tick" opacity="1" transform="translate(493.24,0)"><text fill="currentColor" y="9" dy="0.71em">30</text></g><g class="tick" opacity="1" transform="translate(660.4399999999999,0)"><text fill="currentColor" y="9" dy="0.71em">40</text></g><g class="tick" opacity="1" transform="translate(827.64,0)"><text fill="currentColor" y="9" dy="0.71em">50</text></g></g><g class="axis x" transform="translate(32,32)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle"><g class="tick" opacity="1" transform="translate(158.83999999999997,0)"><text fill="currentColor" y="-9" dy="0em">10</text></g><g class="tick" opacity="1" transform="translate(326.03999999999996,0)"><text fill="currentColor" y="-9" dy="0em">20</text></g><g class="tick" opacity="1" transform="translate(493.24,0)"><text fill="currentColor" y="-9" dy="0em">30</text></g><g class="tick" opacity="1" transform="translate(660.4399999999999,0)"><text fill="currentColor" y="-9" dy="0em">40</text></g><g class="tick" opacity="1" transform="translate(827.64,0)"><text fill="currentColor" y="-9" dy="0em">50</text></g></g></g><g id="key" width="116" height="460" transform="translate(0,368)"><rect class="rect" width="16" height="16" transform="translate(32,0)" stroke="white" fill="Gold"></rect><rect class="rect" width="16" height="16" transform="translate(208,0)" stroke="white" fill="HotPink"></rect><rect class="rect" width="16" height="16" transform="translate(384,0)" stroke="white" fill="LightGrey"></rect><rect class="rect" width="16" height="16" transform="translate(560,0)" stroke="blue" fill="white"></rect><rect class="rect" width="16" height="16" transform="translate(32,22.4)" stroke="green" fill="white"></rect><rect class="rect" width="16" height="16" transform="translate(208,22.4)" stroke="white" fill="#7ebfd3"></rect><rect class="rect" width="16" height="16" transform="translate(384,22.4)" stroke="white" fill="DarkGrey"></rect><rect class="rect" width="16" height="16" transform="translate(560,22.4)" stroke="white" fill="DarkGrey"></rect><rect class="rect" width="16" height="16" transform="translate(32,44.8)" stroke="white" fill="Orange"></rect><rect class="rect" width="16" height="16" transform="translate(208,44.8)" stroke="white" fill="Green"></rect><rect class="rect" width="16" height="16" transform="translate(384,44.8)" stroke="white" fill="White"></rect><rect class="rect" width="16" height="16" transform="translate(560,44.8)" stroke="white" fill="Pink"></rect><rect class="rect" width="16" height="16" transform="translate(32,67.19999999999999)" stroke="white" fill="FireBrick"></rect><text transform="translate(51.2,10.666666666666666)" font-family="sans-serif" font-size="10px" font-weight="bold" fill="black">Strand</text><text transform="translate(227.2,10.666666666666666)" font-family="sans-serif" font-size="10px" font-weight="bold" fill="black">Helix</text><text transform="translate(403.2,10.666666666666666)" font-family="sans-serif" font-size="10px" font-weight="bold" fill="black">Coil</text><text transform="translate(579.2,10.666666666666666)" font-family="sans-serif" font-size="10px" font-weight="bold" fill="black">Disordered</text><text transform="translate(51.2,33.06666666666666)" font-family="sans-serif" font-size="10px" font-weight="bold" fill="black">Disordered, protein binding</text><text transform="translate(227.2,33.06666666666666)" font-family="sans-serif" font-size="10px" font-weight="bold" fill="black">Putative Domain Boundary</text><text transform="translate(403.2,33.06666666666666)" font-family="sans-serif" font-size="10px" font-weight="bold" fill="black">Membrane Interaction</text><text transform="translate(579.2,33.06666666666666)" font-family="sans-serif" font-size="10px" font-weight="bold" fill="black">Transmembrane Helix</text><text transform="translate(51.2,55.46666666666666)" font-family="sans-serif" font-size="10px" font-weight="bold" fill="black">Extracellular</text><text transform="translate(227.2,55.46666666666666)" font-family="sans-serif" font-size="10px" font-weight="bold" fill="black">Re-entrant Helix</text><text transform="translate(403.2,55.46666666666666)" font-family="sans-serif" font-size="10px" font-weight="bold" fill="black">Cytoplasmic</text><text transform="translate(579.2,55.46666666666666)" font-family="sans-serif" font-size="10px" font-weight="bold" fill="black">Signal Peptide</text><text transform="translate(51.2,77.86666666666666)" font-family="sans-serif" font-size="10px" font-weight="bold" fill="black">Metal Binding</text></g><g id="ribbon" width="836" height="32" transform="translate(32,0)"></g></svg>
