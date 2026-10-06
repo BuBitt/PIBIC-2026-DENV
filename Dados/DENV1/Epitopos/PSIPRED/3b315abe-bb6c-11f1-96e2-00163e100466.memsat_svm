@@ -1,0 +1,841 @@
+Processing 1 helix:
+Transmembrane helix 1 from  43 (in) to  58 (out) :	-417.198
+Pore-lining raw score, posterior probability:		0.393,0.939
+Score = -0.428532
+
+Processing 1 helix:
+Transmembrane helix 1 from  43 (out) to  58 (in) :	-415.702
+Pore-lining raw score, posterior probability:		0.393,0.939
+Score = -0.404368
+
+Processing 18 helices:
+Transmembrane helix 1 from   5 (in) to  20 (out) :	-783.151
+Pore-lining raw score, posterior probability:		0.233,0.339
+Transmembrane helix 2 from  24 (out) to  39 (in) :	-965.884
+Pore-lining raw score, posterior probability:		0.352,0.868
+Transmembrane helix 3 from  43 (in) to  58 (out) :	-417.198
+Pore-lining raw score, posterior probability:		0.393,0.939
+Transmembrane helix 4 from  62 (out) to  77 (in) :	-848.86
+Pore-lining raw score, posterior probability:		0.479,0.990
+Transmembrane helix 5 from  81 (in) to  96 (out) :	-1058.64
+Pore-lining raw score, posterior probability:		0.819,1.000
+Transmembrane helix 6 from 100 (out) to 115 (in) :	-1452.12
+Pore-lining raw score, posterior probability:		0.309,0.724
+Transmembrane helix 7 from 121 (in) to 136 (out) :	-1274.98
+Pore-lining raw score, posterior probability:		0.614,0.999
+Transmembrane helix 8 from 140 (out) to 155 (in) :	-855.797
+Pore-lining raw score, posterior probability:		0.473,0.988
+Transmembrane helix 9 from 159 (in) to 174 (out) :	-978.487
+Pore-lining raw score, posterior probability:		0.152,0.084
+Transmembrane helix 10 from 178 (out) to 193 (in) :	-1080.37
+Pore-lining raw score, posterior probability:		0.589,0.999
+Transmembrane helix 11 from 197 (in) to 212 (out) :	-1443.32
+Pore-lining raw score, posterior probability:		0.765,1.000
+Transmembrane helix 12 from 216 (out) to 231 (in) :	-799.38
+Pore-lining raw score, posterior probability:		0.272,0.542
+Transmembrane helix 13 from 235 (in) to 250 (out) :	-584.012
+Pore-lining raw score, posterior probability:		0.209,0.235
+Transmembrane helix 14 from 254 (out) to 269 (in) :	-1077.45
+Pore-lining raw score, posterior probability:		0.049,0.010
+Transmembrane helix 15 from 273 (in) to 288 (out) :	-1346.62
+Pore-lining raw score, posterior probability:		0.586,0.999
+Transmembrane helix 16 from 295 (out) to 310 (in) :	-1389.29
+Pore-lining raw score, posterior probability:		0.352,0.867
+Transmembrane helix 17 from 314 (in) to 329 (out) :	-648.238
+Pore-lining raw score, posterior probability:		-0.022,0.002
+Transmembrane helix 18 from 333 (out) to 348 (in) :	-1098.74
+Pore-lining raw score, posterior probability:		0.228,0.316
+Score = -100000.000000
+
+Processing 17 helices:
+Transmembrane helix 1 from   5 (out) to  20 (in) :	-788.749
+Pore-lining raw score, posterior probability:		0.233,0.339
+Transmembrane helix 2 from  24 (in) to  39 (out) :	-957.216
+Pore-lining raw score, posterior probability:		0.352,0.868
+Transmembrane helix 3 from  43 (out) to  58 (in) :	-415.702
+Pore-lining raw score, posterior probability:		0.393,0.939
+Transmembrane helix 4 from  62 (in) to  77 (out) :	-838.54
+Pore-lining raw score, posterior probability:		0.479,0.990
+Transmembrane helix 5 from  81 (out) to  96 (in) :	-1055.86
+Pore-lining raw score, posterior probability:		0.819,1.000
+Transmembrane helix 6 from 100 (in) to 115 (out) :	-1457.18
+Pore-lining raw score, posterior probability:		0.309,0.724
+Transmembrane helix 7 from 122 (out) to 137 (in) :	-1259.6
+Pore-lining raw score, posterior probability:		0.619,0.999
+Transmembrane helix 8 from 141 (in) to 156 (out) :	-820.008
+Pore-lining raw score, posterior probability:		0.445,0.979
+Transmembrane helix 9 from 160 (out) to 175 (in) :	-1009.03
+Pore-lining raw score, posterior probability:		0.155,0.090
+Transmembrane helix 10 from 180 (in) to 195 (out) :	-1056.79
+Pore-lining raw score, posterior probability:		0.616,0.999
+Transmembrane helix 11 from 208 (out) to 223 (in) :	-908.626
+Pore-lining raw score, posterior probability:		0.693,1.000
+Transmembrane helix 12 from 227 (in) to 242 (out) :	-711.63
+Pore-lining raw score, posterior probability:		0.083,0.021
+Transmembrane helix 13 from 246 (out) to 261 (in) :	-796.402
+Pore-lining raw score, posterior probability:		0.012,0.005
+Transmembrane helix 14 from 265 (in) to 280 (out) :	-1206.98
+Pore-lining raw score, posterior probability:		0.301,0.687
+Transmembrane helix 15 from 295 (out) to 310 (in) :	-1389.29
+Pore-lining raw score, posterior probability:		0.352,0.867
+Transmembrane helix 16 from 314 (in) to 329 (out) :	-648.238
+Pore-lining raw score, posterior probability:		-0.022,0.002
+Transmembrane helix 17 from 333 (out) to 348 (in) :	-1098.74
+Pore-lining raw score, posterior probability:		0.228,0.316
+Score = -100000.000000
+
+Processing 16 helices:
+Transmembrane helix 1 from   6 (in) to  21 (out) :	-778.733
+Pore-lining raw score, posterior probability:		0.247,0.412
+Transmembrane helix 2 from  25 (out) to  40 (in) :	-936.522
+Pore-lining raw score, posterior probability:		0.359,0.882
+Transmembrane helix 3 from  44 (in) to  59 (out) :	-422.957
+Pore-lining raw score, posterior probability:		0.415,0.961
+Transmembrane helix 4 from  63 (out) to  78 (in) :	-856.805
+Pore-lining raw score, posterior probability:		0.530,0.997
+Transmembrane helix 5 from  82 (in) to  97 (out) :	-1064.68
+Pore-lining raw score, posterior probability:		0.777,1.000
+Transmembrane helix 6 from 122 (out) to 137 (in) :	-1259.6
+Pore-lining raw score, posterior probability:		0.619,0.999
+Transmembrane helix 7 from 141 (in) to 156 (out) :	-820.008
+Pore-lining raw score, posterior probability:		0.445,0.979
+Transmembrane helix 8 from 160 (out) to 175 (in) :	-1009.03
+Pore-lining raw score, posterior probability:		0.155,0.090
+Transmembrane helix 9 from 180 (in) to 195 (out) :	-1056.79
+Pore-lining raw score, posterior probability:		0.616,0.999
+Transmembrane helix 10 from 208 (out) to 223 (in) :	-908.626
+Pore-lining raw score, posterior probability:		0.693,1.000
+Transmembrane helix 11 from 227 (in) to 242 (out) :	-711.63
+Pore-lining raw score, posterior probability:		0.083,0.021
+Transmembrane helix 12 from 246 (out) to 261 (in) :	-796.402
+Pore-lining raw score, posterior probability:		0.012,0.005
+Transmembrane helix 13 from 265 (in) to 280 (out) :	-1206.98
+Pore-lining raw score, posterior probability:		0.301,0.687
+Transmembrane helix 14 from 295 (out) to 310 (in) :	-1389.29
+Pore-lining raw score, posterior probability:		0.352,0.867
+Transmembrane helix 15 from 314 (in) to 329 (out) :	-648.238
+Pore-lining raw score, posterior probability:		-0.022,0.002
+Transmembrane helix 16 from 333 (out) to 348 (in) :	-1098.74
+Pore-lining raw score, posterior probability:		0.228,0.316
+Score = -100000.000000
+
+Processing 15 helices:
+Transmembrane helix 1 from   6 (out) to  21 (in) :	-787.467
+Pore-lining raw score, posterior probability:		0.247,0.412
+Transmembrane helix 2 from  25 (in) to  40 (out) :	-927.778
+Pore-lining raw score, posterior probability:		0.359,0.882
+Transmembrane helix 3 from  44 (out) to  59 (in) :	-421.843
+Pore-lining raw score, posterior probability:		0.415,0.961
+Transmembrane helix 4 from  63 (in) to  78 (out) :	-845.295
+Pore-lining raw score, posterior probability:		0.530,0.997
+Transmembrane helix 5 from  82 (out) to  97 (in) :	-1064.02
+Pore-lining raw score, posterior probability:		0.777,1.000
+Transmembrane helix 6 from 122 (in) to 137 (out) :	-1266.6
+Pore-lining raw score, posterior probability:		0.619,0.999
+Transmembrane helix 7 from 141 (out) to 156 (in) :	-822.092
+Pore-lining raw score, posterior probability:		0.445,0.979
+Transmembrane helix 8 from 160 (in) to 175 (out) :	-1019.17
+Pore-lining raw score, posterior probability:		0.155,0.090
+Transmembrane helix 9 from 180 (out) to 195 (in) :	-1063.21
+Pore-lining raw score, posterior probability:		0.616,0.999
+Transmembrane helix 10 from 208 (in) to 223 (out) :	-899.974
+Pore-lining raw score, posterior probability:		0.693,1.000
+Transmembrane helix 11 from 227 (out) to 242 (in) :	-697.87
+Pore-lining raw score, posterior probability:		0.083,0.021
+Transmembrane helix 12 from 246 (in) to 261 (out) :	-801.998
+Pore-lining raw score, posterior probability:		0.012,0.005
+Transmembrane helix 13 from 265 (out) to 280 (in) :	-1204.22
+Pore-lining raw score, posterior probability:		0.301,0.687
+Transmembrane helix 14 from 307 (in) to 322 (out) :	-710.1
+Pore-lining raw score, posterior probability:		0.144,0.072
+Transmembrane helix 15 from 326 (out) to 341 (in) :	-975.428
+Pore-lining raw score, posterior probability:		0.168,0.114
+Score = -100000.000000
+
+Processing 14 helices:
+Transmembrane helix 1 from   6 (in) to  21 (out) :	-778.733
+Pore-lining raw score, posterior probability:		0.247,0.412
+Transmembrane helix 2 from  25 (out) to  40 (in) :	-936.522
+Pore-lining raw score, posterior probability:		0.359,0.882
+Transmembrane helix 3 from  44 (in) to  59 (out) :	-422.957
+Pore-lining raw score, posterior probability:		0.415,0.961
+Transmembrane helix 4 from  63 (out) to  78 (in) :	-856.805
+Pore-lining raw score, posterior probability:		0.530,0.997
+Transmembrane helix 5 from  82 (in) to  97 (out) :	-1064.68
+Pore-lining raw score, posterior probability:		0.777,1.000
+Transmembrane helix 6 from 140 (out) to 155 (in) :	-855.797
+Pore-lining raw score, posterior probability:		0.473,0.988
+Transmembrane helix 7 from 159 (in) to 174 (out) :	-978.487
+Pore-lining raw score, posterior probability:		0.152,0.084
+Transmembrane helix 8 from 180 (out) to 195 (in) :	-1063.21
+Pore-lining raw score, posterior probability:		0.616,0.999
+Transmembrane helix 9 from 208 (in) to 223 (out) :	-899.974
+Pore-lining raw score, posterior probability:		0.693,1.000
+Transmembrane helix 10 from 227 (out) to 242 (in) :	-697.87
+Pore-lining raw score, posterior probability:		0.083,0.021
+Transmembrane helix 11 from 246 (in) to 261 (out) :	-801.998
+Pore-lining raw score, posterior probability:		0.012,0.005
+Transmembrane helix 12 from 265 (out) to 280 (in) :	-1204.22
+Pore-lining raw score, posterior probability:		0.301,0.687
+Transmembrane helix 13 from 307 (in) to 322 (out) :	-710.1
+Pore-lining raw score, posterior probability:		0.144,0.072
+Transmembrane helix 14 from 326 (out) to 341 (in) :	-975.428
+Pore-lining raw score, posterior probability:		0.168,0.114
+Score = -100000.000000
+
+Processing 13 helices:
+Transmembrane helix 1 from   6 (out) to  21 (in) :	-787.467
+Pore-lining raw score, posterior probability:		0.247,0.412
+Transmembrane helix 2 from  25 (in) to  40 (out) :	-927.778
+Pore-lining raw score, posterior probability:		0.359,0.882
+Transmembrane helix 3 from  44 (out) to  59 (in) :	-421.843
+Pore-lining raw score, posterior probability:		0.415,0.961
+Transmembrane helix 4 from  63 (in) to  78 (out) :	-845.295
+Pore-lining raw score, posterior probability:		0.530,0.997
+Transmembrane helix 5 from  82 (out) to  97 (in) :	-1064.02
+Pore-lining raw score, posterior probability:		0.777,1.000
+Transmembrane helix 6 from 140 (in) to 155 (out) :	-852.903
+Pore-lining raw score, posterior probability:		0.473,0.988
+Transmembrane helix 7 from 159 (out) to 174 (in) :	-970.513
+Pore-lining raw score, posterior probability:		0.152,0.084
+Transmembrane helix 8 from 180 (in) to 195 (out) :	-1056.79
+Pore-lining raw score, posterior probability:		0.616,0.999
+Transmembrane helix 9 from 209 (out) to 224 (in) :	-889.051
+Pore-lining raw score, posterior probability:		0.682,1.000
+Transmembrane helix 10 from 228 (in) to 243 (out) :	-680.664
+Pore-lining raw score, posterior probability:		0.081,0.020
+Transmembrane helix 11 from 247 (out) to 262 (in) :	-839.665
+Pore-lining raw score, posterior probability:		0.063,0.014
+Transmembrane helix 12 from 307 (in) to 322 (out) :	-710.1
+Pore-lining raw score, posterior probability:		0.144,0.072
+Transmembrane helix 13 from 326 (out) to 341 (in) :	-975.428
+Pore-lining raw score, posterior probability:		0.168,0.114
+Score = -100000.000000
+
+Processing 12 helices:
+Transmembrane helix 1 from   6 (in) to  21 (out) :	-778.733
+Pore-lining raw score, posterior probability:		0.247,0.412
+Transmembrane helix 2 from  25 (out) to  40 (in) :	-936.522
+Pore-lining raw score, posterior probability:		0.359,0.882
+Transmembrane helix 3 from  44 (in) to  59 (out) :	-422.957
+Pore-lining raw score, posterior probability:		0.415,0.961
+Transmembrane helix 4 from  63 (out) to  78 (in) :	-856.805
+Pore-lining raw score, posterior probability:		0.530,0.997
+Transmembrane helix 5 from  82 (in) to  97 (out) :	-1064.68
+Pore-lining raw score, posterior probability:		0.777,1.000
+Transmembrane helix 6 from 148 (out) to 163 (in) :	-711.444
+Pore-lining raw score, posterior probability:		0.354,0.872
+Transmembrane helix 7 from 180 (in) to 195 (out) :	-1056.79
+Pore-lining raw score, posterior probability:		0.616,0.999
+Transmembrane helix 8 from 209 (out) to 224 (in) :	-889.051
+Pore-lining raw score, posterior probability:		0.682,1.000
+Transmembrane helix 9 from 228 (in) to 243 (out) :	-680.664
+Pore-lining raw score, posterior probability:		0.081,0.020
+Transmembrane helix 10 from 247 (out) to 262 (in) :	-839.665
+Pore-lining raw score, posterior probability:		0.063,0.014
+Transmembrane helix 11 from 307 (in) to 322 (out) :	-710.1
+Pore-lining raw score, posterior probability:		0.144,0.072
+Transmembrane helix 12 from 326 (out) to 341 (in) :	-975.428
+Pore-lining raw score, posterior probability:		0.168,0.114
+Score = -100000.000000
+
+Processing 11 helices:
+Transmembrane helix 1 from   6 (out) to  21 (in) :	-787.467
+Pore-lining raw score, posterior probability:		0.247,0.412
+Transmembrane helix 2 from  25 (in) to  40 (out) :	-927.778
+Pore-lining raw score, posterior probability:		0.359,0.882
+Transmembrane helix 3 from  44 (out) to  59 (in) :	-421.843
+Pore-lining raw score, posterior probability:		0.415,0.961
+Transmembrane helix 4 from  63 (in) to  78 (out) :	-845.295
+Pore-lining raw score, posterior probability:		0.530,0.997
+Transmembrane helix 5 from  82 (out) to  97 (in) :	-1064.02
+Pore-lining raw score, posterior probability:		0.777,1.000
+Transmembrane helix 6 from 146 (in) to 161 (out) :	-718.137
+Pore-lining raw score, posterior probability:		0.392,0.939
+Transmembrane helix 7 from 180 (out) to 195 (in) :	-1063.21
+Pore-lining raw score, posterior probability:		0.616,0.999
+Transmembrane helix 8 from 209 (in) to 224 (out) :	-880.149
+Pore-lining raw score, posterior probability:		0.682,1.000
+Transmembrane helix 9 from 228 (out) to 243 (in) :	-666.736
+Pore-lining raw score, posterior probability:		0.081,0.020
+Transmembrane helix 10 from 247 (in) to 262 (out) :	-846.435
+Pore-lining raw score, posterior probability:		0.063,0.014
+Transmembrane helix 11 from 314 (out) to 329 (in) :	-649.062
+Pore-lining raw score, posterior probability:		-0.022,0.002
+Score = -100000.000000
+
+Processing 10 helices:
+Transmembrane helix 1 from   6 (in) to  21 (out) :	-778.733
+Pore-lining raw score, posterior probability:		0.247,0.412
+Transmembrane helix 2 from  25 (out) to  40 (in) :	-936.522
+Pore-lining raw score, posterior probability:		0.359,0.882
+Transmembrane helix 3 from  44 (in) to  59 (out) :	-422.957
+Pore-lining raw score, posterior probability:		0.415,0.961
+Transmembrane helix 4 from  63 (out) to  78 (in) :	-856.805
+Pore-lining raw score, posterior probability:		0.530,0.997
+Transmembrane helix 5 from  82 (in) to  97 (out) :	-1064.68
+Pore-lining raw score, posterior probability:		0.777,1.000
+Transmembrane helix 6 from 148 (out) to 163 (in) :	-711.444
+Pore-lining raw score, posterior probability:		0.354,0.872
+Transmembrane helix 7 from 180 (in) to 195 (out) :	-1056.79
+Pore-lining raw score, posterior probability:		0.616,0.999
+Transmembrane helix 8 from 220 (out) to 235 (in) :	-767.11
+Pore-lining raw score, posterior probability:		0.160,0.098
+Transmembrane helix 9 from 239 (in) to 254 (out) :	-584.451
+Pore-lining raw score, posterior probability:		0.028,0.007
+Transmembrane helix 10 from 314 (out) to 329 (in) :	-649.062
+Pore-lining raw score, posterior probability:		-0.022,0.002
+Score = -100000.000000
+
+Processing 9 helices:
+Transmembrane helix 1 from   6 (out) to  21 (in) :	-787.467
+Pore-lining raw score, posterior probability:		0.247,0.412
+Transmembrane helix 2 from  25 (in) to  40 (out) :	-927.778
+Pore-lining raw score, posterior probability:		0.359,0.882
+Transmembrane helix 3 from  44 (out) to  59 (in) :	-421.843
+Pore-lining raw score, posterior probability:		0.415,0.961
+Transmembrane helix 4 from  63 (in) to  78 (out) :	-845.295
+Pore-lining raw score, posterior probability:		0.530,0.997
+Transmembrane helix 5 from 148 (out) to 163 (in) :	-711.444
+Pore-lining raw score, posterior probability:		0.354,0.872
+Transmembrane helix 6 from 180 (in) to 195 (out) :	-1056.79
+Pore-lining raw score, posterior probability:		0.616,0.999
+Transmembrane helix 7 from 220 (out) to 235 (in) :	-767.11
+Pore-lining raw score, posterior probability:		0.160,0.098
+Transmembrane helix 8 from 239 (in) to 254 (out) :	-584.451
+Pore-lining raw score, posterior probability:		0.028,0.007
+Transmembrane helix 9 from 314 (out) to 329 (in) :	-649.062
+Pore-lining raw score, posterior probability:		-0.022,0.002
+Score = -100000.000000
+
+Processing 8 helices:
+Transmembrane helix 1 from   6 (in) to  21 (out) :	-778.733
+Pore-lining raw score, posterior probability:		0.247,0.412
+Transmembrane helix 2 from  25 (out) to  40 (in) :	-936.522
+Pore-lining raw score, posterior probability:		0.359,0.882
+Transmembrane helix 3 from  44 (in) to  59 (out) :	-422.957
+Pore-lining raw score, posterior probability:		0.415,0.961
+Transmembrane helix 4 from  63 (out) to  78 (in) :	-856.805
+Pore-lining raw score, posterior probability:		0.530,0.997
+Transmembrane helix 5 from 148 (in) to 163 (out) :	-716.856
+Pore-lining raw score, posterior probability:		0.354,0.872
+Transmembrane helix 6 from 220 (out) to 235 (in) :	-767.11
+Pore-lining raw score, posterior probability:		0.160,0.098
+Transmembrane helix 7 from 239 (in) to 254 (out) :	-584.451
+Pore-lining raw score, posterior probability:		0.028,0.007
+Transmembrane helix 8 from 314 (out) to 329 (in) :	-649.062
+Pore-lining raw score, posterior probability:		-0.022,0.002
+Score = -100000.000000
+
+Processing 7 helices:
+Transmembrane helix 1 from   6 (out) to  21 (in) :	-787.467
+Pore-lining raw score, posterior probability:		0.247,0.412
+Transmembrane helix 2 from  34 (in) to  49 (out) :	-654.616
+Pore-lining raw score, posterior probability:		0.236,0.356
+Transmembrane helix 3 from  53 (out) to  68 (in) :	-587.016
+Pore-lining raw score, posterior probability:		0.550,0.998
+Transmembrane helix 4 from 148 (in) to 163 (out) :	-716.856
+Pore-lining raw score, posterior probability:		0.354,0.872
+Transmembrane helix 5 from 220 (out) to 235 (in) :	-767.11
+Pore-lining raw score, posterior probability:		0.160,0.098
+Transmembrane helix 6 from 239 (in) to 254 (out) :	-584.451
+Pore-lining raw score, posterior probability:		0.028,0.007
+Transmembrane helix 7 from 314 (out) to 329 (in) :	-649.062
+Pore-lining raw score, posterior probability:		-0.022,0.002
+Score = -100000.000000
+
+Processing 6 helices:
+Transmembrane helix 1 from   6 (in) to  21 (out) :	-778.733
+Pore-lining raw score, posterior probability:		0.247,0.412
+Transmembrane helix 2 from  43 (out) to  58 (in) :	-415.702
+Pore-lining raw score, posterior probability:		0.393,0.939
+Transmembrane helix 3 from 148 (in) to 163 (out) :	-716.856
+Pore-lining raw score, posterior probability:		0.354,0.872
+Transmembrane helix 4 from 220 (out) to 235 (in) :	-767.11
+Pore-lining raw score, posterior probability:		0.160,0.098
+Transmembrane helix 5 from 239 (in) to 254 (out) :	-584.451
+Pore-lining raw score, posterior probability:		0.028,0.007
+Transmembrane helix 6 from 314 (out) to 329 (in) :	-649.062
+Pore-lining raw score, posterior probability:		-0.022,0.002
+Score = -100000.000000
+
+Processing 5 helices:
+Transmembrane helix 1 from  43 (out) to  58 (in) :	-415.702
+Pore-lining raw score, posterior probability:		0.393,0.939
+Transmembrane helix 2 from 148 (in) to 163 (out) :	-716.856
+Pore-lining raw score, posterior probability:		0.354,0.872
+Transmembrane helix 3 from 220 (out) to 235 (in) :	-767.11
+Pore-lining raw score, posterior probability:		0.160,0.098
+Transmembrane helix 4 from 239 (in) to 254 (out) :	-584.451
+Pore-lining raw score, posterior probability:		0.028,0.007
+Transmembrane helix 5 from 314 (out) to 329 (in) :	-649.062
+Pore-lining raw score, posterior probability:		-0.022,0.002
+Score = -100000.000000
+
+Processing 4 helices:
+Transmembrane helix 1 from  43 (in) to  58 (out) :	-417.198
+Pore-lining raw score, posterior probability:		0.393,0.939
+Transmembrane helix 2 from 148 (out) to 163 (in) :	-711.444
+Pore-lining raw score, posterior probability:		0.354,0.872
+Transmembrane helix 3 from 238 (in) to 253 (out) :	-575.734
+Pore-lining raw score, posterior probability:		0.043,0.009
+Transmembrane helix 4 from 314 (out) to 329 (in) :	-649.062
+Pore-lining raw score, posterior probability:		-0.022,0.002
+Score = -100000.000000
+
+Processing 3 helices:
+Transmembrane helix 1 from  43 (out) to  58 (in) :	-415.702
+Pore-lining raw score, posterior probability:		0.393,0.939
+Transmembrane helix 2 from 238 (in) to 253 (out) :	-575.734
+Pore-lining raw score, posterior probability:		0.043,0.009
+Transmembrane helix 3 from 314 (out) to 329 (in) :	-649.062
+Pore-lining raw score, posterior probability:		-0.022,0.002
+Score = -100000.000000
+
+Processing 2 helices:
+Transmembrane helix 1 from  43 (in) to  58 (out) :	-417.198
+Pore-lining raw score, posterior probability:		0.393,0.939
+Transmembrane helix 2 from 238 (out) to 253 (in) :	-576.966
+Pore-lining raw score, posterior probability:		0.043,0.009
+Score = -100000.000000
+
+Processing 18 helices:
+Transmembrane helix 1 from   5 (out) to  20 (in) :	-788.749
+Pore-lining raw score, posterior probability:		0.233,0.339
+Transmembrane helix 2 from  24 (in) to  39 (out) :	-957.216
+Pore-lining raw score, posterior probability:		0.352,0.868
+Transmembrane helix 3 from  43 (out) to  58 (in) :	-415.702
+Pore-lining raw score, posterior probability:		0.393,0.939
+Transmembrane helix 4 from  62 (in) to  77 (out) :	-838.54
+Pore-lining raw score, posterior probability:		0.479,0.990
+Transmembrane helix 5 from  81 (out) to  96 (in) :	-1055.86
+Pore-lining raw score, posterior probability:		0.819,1.000
+Transmembrane helix 6 from 100 (in) to 115 (out) :	-1457.18
+Pore-lining raw score, posterior probability:		0.309,0.724
+Transmembrane helix 7 from 121 (out) to 136 (in) :	-1268.91
+Pore-lining raw score, posterior probability:		0.614,0.999
+Transmembrane helix 8 from 140 (in) to 155 (out) :	-852.903
+Pore-lining raw score, posterior probability:		0.473,0.988
+Transmembrane helix 9 from 159 (out) to 174 (in) :	-970.513
+Pore-lining raw score, posterior probability:		0.152,0.084
+Transmembrane helix 10 from 178 (in) to 193 (out) :	-1072.93
+Pore-lining raw score, posterior probability:		0.589,0.999
+Transmembrane helix 11 from 197 (out) to 212 (in) :	-1444.58
+Pore-lining raw score, posterior probability:		0.765,1.000
+Transmembrane helix 12 from 216 (in) to 231 (out) :	-788.02
+Pore-lining raw score, posterior probability:		0.272,0.542
+Transmembrane helix 13 from 235 (out) to 250 (in) :	-583.788
+Pore-lining raw score, posterior probability:		0.209,0.235
+Transmembrane helix 14 from 254 (in) to 269 (out) :	-1074.35
+Pore-lining raw score, posterior probability:		0.049,0.010
+Transmembrane helix 15 from 273 (out) to 288 (in) :	-1345.78
+Pore-lining raw score, posterior probability:		0.586,0.999
+Transmembrane helix 16 from 295 (in) to 310 (out) :	-1392.21
+Pore-lining raw score, posterior probability:		0.352,0.867
+Transmembrane helix 17 from 314 (out) to 329 (in) :	-649.062
+Pore-lining raw score, posterior probability:		-0.022,0.002
+Transmembrane helix 18 from 333 (in) to 348 (out) :	-1105.46
+Pore-lining raw score, posterior probability:		0.228,0.316
+Score = -100000.000000
+
+Processing 17 helices:
+Transmembrane helix 1 from   5 (in) to  20 (out) :	-783.151
+Pore-lining raw score, posterior probability:		0.233,0.339
+Transmembrane helix 2 from  24 (out) to  39 (in) :	-965.884
+Pore-lining raw score, posterior probability:		0.352,0.868
+Transmembrane helix 3 from  43 (in) to  58 (out) :	-417.198
+Pore-lining raw score, posterior probability:		0.393,0.939
+Transmembrane helix 4 from  62 (out) to  77 (in) :	-848.86
+Pore-lining raw score, posterior probability:		0.479,0.990
+Transmembrane helix 5 from  81 (in) to  96 (out) :	-1058.64
+Pore-lining raw score, posterior probability:		0.819,1.000
+Transmembrane helix 6 from 100 (out) to 115 (in) :	-1452.12
+Pore-lining raw score, posterior probability:		0.309,0.724
+Transmembrane helix 7 from 122 (in) to 137 (out) :	-1266.6
+Pore-lining raw score, posterior probability:		0.619,0.999
+Transmembrane helix 8 from 141 (out) to 156 (in) :	-822.092
+Pore-lining raw score, posterior probability:		0.445,0.979
+Transmembrane helix 9 from 160 (in) to 175 (out) :	-1019.17
+Pore-lining raw score, posterior probability:		0.155,0.090
+Transmembrane helix 10 from 180 (out) to 195 (in) :	-1063.21
+Pore-lining raw score, posterior probability:		0.616,0.999
+Transmembrane helix 11 from 208 (in) to 223 (out) :	-899.974
+Pore-lining raw score, posterior probability:		0.693,1.000
+Transmembrane helix 12 from 227 (out) to 242 (in) :	-697.87
+Pore-lining raw score, posterior probability:		0.083,0.021
+Transmembrane helix 13 from 246 (in) to 261 (out) :	-801.998
+Pore-lining raw score, posterior probability:		0.012,0.005
+Transmembrane helix 14 from 265 (out) to 280 (in) :	-1204.22
+Pore-lining raw score, posterior probability:		0.301,0.687
+Transmembrane helix 15 from 295 (in) to 310 (out) :	-1392.21
+Pore-lining raw score, posterior probability:		0.352,0.867
+Transmembrane helix 16 from 314 (out) to 329 (in) :	-649.062
+Pore-lining raw score, posterior probability:		-0.022,0.002
+Transmembrane helix 17 from 333 (in) to 348 (out) :	-1105.46
+Pore-lining raw score, posterior probability:		0.228,0.316
+Score = -100000.000000
+
+Processing 16 helices:
+Transmembrane helix 1 from   5 (out) to  20 (in) :	-788.749
+Pore-lining raw score, posterior probability:		0.233,0.339
+Transmembrane helix 2 from  24 (in) to  39 (out) :	-957.216
+Pore-lining raw score, posterior probability:		0.352,0.868
+Transmembrane helix 3 from  43 (out) to  58 (in) :	-415.702
+Pore-lining raw score, posterior probability:		0.393,0.939
+Transmembrane helix 4 from  62 (in) to  77 (out) :	-838.54
+Pore-lining raw score, posterior probability:		0.479,0.990
+Transmembrane helix 5 from  81 (out) to  96 (in) :	-1055.86
+Pore-lining raw score, posterior probability:		0.819,1.000
+Transmembrane helix 6 from 100 (in) to 115 (out) :	-1457.18
+Pore-lining raw score, posterior probability:		0.309,0.724
+Transmembrane helix 7 from 122 (out) to 137 (in) :	-1259.6
+Pore-lining raw score, posterior probability:		0.619,0.999
+Transmembrane helix 8 from 141 (in) to 156 (out) :	-820.008
+Pore-lining raw score, posterior probability:		0.445,0.979
+Transmembrane helix 9 from 160 (out) to 175 (in) :	-1009.03
+Pore-lining raw score, posterior probability:		0.155,0.090
+Transmembrane helix 10 from 180 (in) to 195 (out) :	-1056.79
+Pore-lining raw score, posterior probability:		0.616,0.999
+Transmembrane helix 11 from 208 (out) to 223 (in) :	-908.626
+Pore-lining raw score, posterior probability:		0.693,1.000
+Transmembrane helix 12 from 227 (in) to 242 (out) :	-711.63
+Pore-lining raw score, posterior probability:		0.083,0.021
+Transmembrane helix 13 from 246 (out) to 261 (in) :	-796.402
+Pore-lining raw score, posterior probability:		0.012,0.005
+Transmembrane helix 14 from 265 (in) to 280 (out) :	-1206.98
+Pore-lining raw score, posterior probability:		0.301,0.687
+Transmembrane helix 15 from 307 (out) to 322 (in) :	-720.1
+Pore-lining raw score, posterior probability:		0.144,0.072
+Transmembrane helix 16 from 326 (in) to 341 (out) :	-981.072
+Pore-lining raw score, posterior probability:		0.168,0.114
+Score = -100000.000000
+
+Processing 15 helices:
+Transmembrane helix 1 from   6 (in) to  21 (out) :	-778.733
+Pore-lining raw score, posterior probability:		0.247,0.412
+Transmembrane helix 2 from  25 (out) to  40 (in) :	-936.522
+Pore-lining raw score, posterior probability:		0.359,0.882
+Transmembrane helix 3 from  44 (in) to  59 (out) :	-422.957
+Pore-lining raw score, posterior probability:		0.415,0.961
+Transmembrane helix 4 from  63 (out) to  78 (in) :	-856.805
+Pore-lining raw score, posterior probability:		0.530,0.997
+Transmembrane helix 5 from  82 (in) to  97 (out) :	-1064.68
+Pore-lining raw score, posterior probability:		0.777,1.000
+Transmembrane helix 6 from 122 (out) to 137 (in) :	-1259.6
+Pore-lining raw score, posterior probability:		0.619,0.999
+Transmembrane helix 7 from 141 (in) to 156 (out) :	-820.008
+Pore-lining raw score, posterior probability:		0.445,0.979
+Transmembrane helix 8 from 160 (out) to 175 (in) :	-1009.03
+Pore-lining raw score, posterior probability:		0.155,0.090
+Transmembrane helix 9 from 180 (in) to 195 (out) :	-1056.79
+Pore-lining raw score, posterior probability:		0.616,0.999
+Transmembrane helix 10 from 208 (out) to 223 (in) :	-908.626
+Pore-lining raw score, posterior probability:		0.693,1.000
+Transmembrane helix 11 from 227 (in) to 242 (out) :	-711.63
+Pore-lining raw score, posterior probability:		0.083,0.021
+Transmembrane helix 12 from 246 (out) to 261 (in) :	-796.402
+Pore-lining raw score, posterior probability:		0.012,0.005
+Transmembrane helix 13 from 265 (in) to 280 (out) :	-1206.98
+Pore-lining raw score, posterior probability:		0.301,0.687
+Transmembrane helix 14 from 307 (out) to 322 (in) :	-720.1
+Pore-lining raw score, posterior probability:		0.144,0.072
+Transmembrane helix 15 from 326 (in) to 341 (out) :	-981.072
+Pore-lining raw score, posterior probability:		0.168,0.114
+Score = -100000.000000
+
+Processing 14 helices:
+Transmembrane helix 1 from   6 (out) to  21 (in) :	-787.467
+Pore-lining raw score, posterior probability:		0.247,0.412
+Transmembrane helix 2 from  25 (in) to  40 (out) :	-927.778
+Pore-lining raw score, posterior probability:		0.359,0.882
+Transmembrane helix 3 from  44 (out) to  59 (in) :	-421.843
+Pore-lining raw score, posterior probability:		0.415,0.961
+Transmembrane helix 4 from  63 (in) to  78 (out) :	-845.295
+Pore-lining raw score, posterior probability:		0.530,0.997
+Transmembrane helix 5 from  82 (out) to  97 (in) :	-1064.02
+Pore-lining raw score, posterior probability:		0.777,1.000
+Transmembrane helix 6 from 140 (in) to 155 (out) :	-852.903
+Pore-lining raw score, posterior probability:		0.473,0.988
+Transmembrane helix 7 from 159 (out) to 174 (in) :	-970.513
+Pore-lining raw score, posterior probability:		0.152,0.084
+Transmembrane helix 8 from 180 (in) to 195 (out) :	-1056.79
+Pore-lining raw score, posterior probability:		0.616,0.999
+Transmembrane helix 9 from 208 (out) to 223 (in) :	-908.626
+Pore-lining raw score, posterior probability:		0.693,1.000
+Transmembrane helix 10 from 227 (in) to 242 (out) :	-711.63
+Pore-lining raw score, posterior probability:		0.083,0.021
+Transmembrane helix 11 from 246 (out) to 261 (in) :	-796.402
+Pore-lining raw score, posterior probability:		0.012,0.005
+Transmembrane helix 12 from 265 (in) to 280 (out) :	-1206.98
+Pore-lining raw score, posterior probability:		0.301,0.687
+Transmembrane helix 13 from 307 (out) to 322 (in) :	-720.1
+Pore-lining raw score, posterior probability:		0.144,0.072
+Transmembrane helix 14 from 326 (in) to 341 (out) :	-981.072
+Pore-lining raw score, posterior probability:		0.168,0.114
+Score = -100000.000000
+
+Processing 13 helices:
+Transmembrane helix 1 from   6 (in) to  21 (out) :	-778.733
+Pore-lining raw score, posterior probability:		0.247,0.412
+Transmembrane helix 2 from  25 (out) to  40 (in) :	-936.522
+Pore-lining raw score, posterior probability:		0.359,0.882
+Transmembrane helix 3 from  44 (in) to  59 (out) :	-422.957
+Pore-lining raw score, posterior probability:		0.415,0.961
+Transmembrane helix 4 from  63 (out) to  78 (in) :	-856.805
+Pore-lining raw score, posterior probability:		0.530,0.997
+Transmembrane helix 5 from  82 (in) to  97 (out) :	-1064.68
+Pore-lining raw score, posterior probability:		0.777,1.000
+Transmembrane helix 6 from 140 (out) to 155 (in) :	-855.797
+Pore-lining raw score, posterior probability:		0.473,0.988
+Transmembrane helix 7 from 159 (in) to 174 (out) :	-978.487
+Pore-lining raw score, posterior probability:		0.152,0.084
+Transmembrane helix 8 from 180 (out) to 195 (in) :	-1063.21
+Pore-lining raw score, posterior probability:		0.616,0.999
+Transmembrane helix 9 from 209 (in) to 224 (out) :	-880.149
+Pore-lining raw score, posterior probability:		0.682,1.000
+Transmembrane helix 10 from 228 (out) to 243 (in) :	-666.736
+Pore-lining raw score, posterior probability:		0.081,0.020
+Transmembrane helix 11 from 247 (in) to 262 (out) :	-846.435
+Pore-lining raw score, posterior probability:		0.063,0.014
+Transmembrane helix 12 from 307 (out) to 322 (in) :	-720.1
+Pore-lining raw score, posterior probability:		0.144,0.072
+Transmembrane helix 13 from 326 (in) to 341 (out) :	-981.072
+Pore-lining raw score, posterior probability:		0.168,0.114
+Score = -100000.000000
+
+Processing 12 helices:
+Transmembrane helix 1 from   6 (out) to  21 (in) :	-787.467
+Pore-lining raw score, posterior probability:		0.247,0.412
+Transmembrane helix 2 from  25 (in) to  40 (out) :	-927.778
+Pore-lining raw score, posterior probability:		0.359,0.882
+Transmembrane helix 3 from  44 (out) to  59 (in) :	-421.843
+Pore-lining raw score, posterior probability:		0.415,0.961
+Transmembrane helix 4 from  63 (in) to  78 (out) :	-845.295
+Pore-lining raw score, posterior probability:		0.530,0.997
+Transmembrane helix 5 from  82 (out) to  97 (in) :	-1064.02
+Pore-lining raw score, posterior probability:		0.777,1.000
+Transmembrane helix 6 from 146 (in) to 161 (out) :	-718.137
+Pore-lining raw score, posterior probability:		0.392,0.939
+Transmembrane helix 7 from 180 (out) to 195 (in) :	-1063.21
+Pore-lining raw score, posterior probability:		0.616,0.999
+Transmembrane helix 8 from 209 (in) to 224 (out) :	-880.149
+Pore-lining raw score, posterior probability:		0.682,1.000
+Transmembrane helix 9 from 228 (out) to 243 (in) :	-666.736
+Pore-lining raw score, posterior probability:		0.081,0.020
+Transmembrane helix 10 from 247 (in) to 262 (out) :	-846.435
+Pore-lining raw score, posterior probability:		0.063,0.014
+Transmembrane helix 11 from 307 (out) to 322 (in) :	-720.1
+Pore-lining raw score, posterior probability:		0.144,0.072
+Transmembrane helix 12 from 326 (in) to 341 (out) :	-981.072
+Pore-lining raw score, posterior probability:		0.168,0.114
+Score = -100000.000000
+
+Processing 11 helices:
+Transmembrane helix 1 from   6 (in) to  21 (out) :	-778.733
+Pore-lining raw score, posterior probability:		0.247,0.412
+Transmembrane helix 2 from  25 (out) to  40 (in) :	-936.522
+Pore-lining raw score, posterior probability:		0.359,0.882
+Transmembrane helix 3 from  44 (in) to  59 (out) :	-422.957
+Pore-lining raw score, posterior probability:		0.415,0.961
+Transmembrane helix 4 from  63 (out) to  78 (in) :	-856.805
+Pore-lining raw score, posterior probability:		0.530,0.997
+Transmembrane helix 5 from  82 (in) to  97 (out) :	-1064.68
+Pore-lining raw score, posterior probability:		0.777,1.000
+Transmembrane helix 6 from 148 (out) to 163 (in) :	-711.444
+Pore-lining raw score, posterior probability:		0.354,0.872
+Transmembrane helix 7 from 180 (in) to 195 (out) :	-1056.79
+Pore-lining raw score, posterior probability:		0.616,0.999
+Transmembrane helix 8 from 220 (out) to 235 (in) :	-767.11
+Pore-lining raw score, posterior probability:		0.160,0.098
+Transmembrane helix 9 from 239 (in) to 254 (out) :	-584.451
+Pore-lining raw score, posterior probability:		0.028,0.007
+Transmembrane helix 10 from 307 (out) to 322 (in) :	-720.1
+Pore-lining raw score, posterior probability:		0.144,0.072
+Transmembrane helix 11 from 326 (in) to 341 (out) :	-981.072
+Pore-lining raw score, posterior probability:		0.168,0.114
+Score = -100000.000000
+
+Processing 10 helices:
+Transmembrane helix 1 from   6 (out) to  21 (in) :	-787.467
+Pore-lining raw score, posterior probability:		0.247,0.412
+Transmembrane helix 2 from  25 (in) to  40 (out) :	-927.778
+Pore-lining raw score, posterior probability:		0.359,0.882
+Transmembrane helix 3 from  44 (out) to  59 (in) :	-421.843
+Pore-lining raw score, posterior probability:		0.415,0.961
+Transmembrane helix 4 from  63 (in) to  78 (out) :	-845.295
+Pore-lining raw score, posterior probability:		0.530,0.997
+Transmembrane helix 5 from 148 (out) to 163 (in) :	-711.444
+Pore-lining raw score, posterior probability:		0.354,0.872
+Transmembrane helix 6 from 180 (in) to 195 (out) :	-1056.79
+Pore-lining raw score, posterior probability:		0.616,0.999
+Transmembrane helix 7 from 220 (out) to 235 (in) :	-767.11
+Pore-lining raw score, posterior probability:		0.160,0.098
+Transmembrane helix 8 from 239 (in) to 254 (out) :	-584.451
+Pore-lining raw score, posterior probability:		0.028,0.007
+Transmembrane helix 9 from 307 (out) to 322 (in) :	-720.1
+Pore-lining raw score, posterior probability:		0.144,0.072
+Transmembrane helix 10 from 326 (in) to 341 (out) :	-981.072
+Pore-lining raw score, posterior probability:		0.168,0.114
+Score = -100000.000000
+
+Processing 9 helices:
+Transmembrane helix 1 from   6 (in) to  21 (out) :	-778.733
+Pore-lining raw score, posterior probability:		0.247,0.412
+Transmembrane helix 2 from  25 (out) to  40 (in) :	-936.522
+Pore-lining raw score, posterior probability:		0.359,0.882
+Transmembrane helix 3 from  44 (in) to  59 (out) :	-422.957
+Pore-lining raw score, posterior probability:		0.415,0.961
+Transmembrane helix 4 from  63 (out) to  78 (in) :	-856.805
+Pore-lining raw score, posterior probability:		0.530,0.997
+Transmembrane helix 5 from 148 (in) to 163 (out) :	-716.856
+Pore-lining raw score, posterior probability:		0.354,0.872
+Transmembrane helix 6 from 220 (out) to 235 (in) :	-767.11
+Pore-lining raw score, posterior probability:		0.160,0.098
+Transmembrane helix 7 from 239 (in) to 254 (out) :	-584.451
+Pore-lining raw score, posterior probability:		0.028,0.007
+Transmembrane helix 8 from 307 (out) to 322 (in) :	-720.1
+Pore-lining raw score, posterior probability:		0.144,0.072
+Transmembrane helix 9 from 326 (in) to 341 (out) :	-981.072
+Pore-lining raw score, posterior probability:		0.168,0.114
+Score = -100000.000000
+
+Processing 8 helices:
+Transmembrane helix 1 from   6 (out) to  21 (in) :	-787.467
+Pore-lining raw score, posterior probability:		0.247,0.412
+Transmembrane helix 2 from  25 (in) to  40 (out) :	-927.778
+Pore-lining raw score, posterior probability:		0.359,0.882
+Transmembrane helix 3 from  44 (out) to  59 (in) :	-421.843
+Pore-lining raw score, posterior probability:		0.415,0.961
+Transmembrane helix 4 from  63 (in) to  78 (out) :	-845.295
+Pore-lining raw score, posterior probability:		0.530,0.997
+Transmembrane helix 5 from 148 (out) to 163 (in) :	-711.444
+Pore-lining raw score, posterior probability:		0.354,0.872
+Transmembrane helix 6 from 216 (in) to 231 (out) :	-788.02
+Pore-lining raw score, posterior probability:		0.272,0.542
+Transmembrane helix 7 from 235 (out) to 250 (in) :	-583.788
+Pore-lining raw score, posterior probability:		0.209,0.235
+Transmembrane helix 8 from 312 (in) to 327 (out) :	-647.251
+Pore-lining raw score, posterior probability:		-0.017,0.003
+Score = -100000.000000
+
+Processing 7 helices:
+Transmembrane helix 1 from   6 (in) to  21 (out) :	-778.733
+Pore-lining raw score, posterior probability:		0.247,0.412
+Transmembrane helix 2 from  34 (out) to  49 (in) :	-643.884
+Pore-lining raw score, posterior probability:		0.236,0.356
+Transmembrane helix 3 from  53 (in) to  68 (out) :	-588.484
+Pore-lining raw score, posterior probability:		0.550,0.998
+Transmembrane helix 4 from 148 (out) to 163 (in) :	-711.444
+Pore-lining raw score, posterior probability:		0.354,0.872
+Transmembrane helix 5 from 216 (in) to 231 (out) :	-788.02
+Pore-lining raw score, posterior probability:		0.272,0.542
+Transmembrane helix 6 from 235 (out) to 250 (in) :	-583.788
+Pore-lining raw score, posterior probability:		0.209,0.235
+Transmembrane helix 7 from 312 (in) to 327 (out) :	-647.251
+Pore-lining raw score, posterior probability:		-0.017,0.003
+Score = -100000.000000
+
+Processing 6 helices:
+Transmembrane helix 1 from   6 (out) to  21 (in) :	-787.467
+Pore-lining raw score, posterior probability:		0.247,0.412
+Transmembrane helix 2 from  43 (in) to  58 (out) :	-417.198
+Pore-lining raw score, posterior probability:		0.393,0.939
+Transmembrane helix 3 from 148 (out) to 163 (in) :	-711.444
+Pore-lining raw score, posterior probability:		0.354,0.872
+Transmembrane helix 4 from 216 (in) to 231 (out) :	-788.02
+Pore-lining raw score, posterior probability:		0.272,0.542
+Transmembrane helix 5 from 235 (out) to 250 (in) :	-583.788
+Pore-lining raw score, posterior probability:		0.209,0.235
+Transmembrane helix 6 from 312 (in) to 327 (out) :	-647.251
+Pore-lining raw score, posterior probability:		-0.017,0.003
+Score = -100000.000000
+
+Processing 5 helices:
+Transmembrane helix 1 from   6 (in) to  21 (out) :	-778.733
+Pore-lining raw score, posterior probability:		0.247,0.412
+Transmembrane helix 2 from  43 (out) to  58 (in) :	-415.702
+Pore-lining raw score, posterior probability:		0.393,0.939
+Transmembrane helix 3 from 148 (in) to 163 (out) :	-716.856
+Pore-lining raw score, posterior probability:		0.354,0.872
+Transmembrane helix 4 from 235 (out) to 250 (in) :	-583.788
+Pore-lining raw score, posterior probability:		0.209,0.235
+Transmembrane helix 5 from 312 (in) to 327 (out) :	-647.251
+Pore-lining raw score, posterior probability:		-0.017,0.003
+Score = -100000.000000
+
+Processing 4 helices:
+Transmembrane helix 1 from  43 (out) to  58 (in) :	-415.702
+Pore-lining raw score, posterior probability:		0.393,0.939
+Transmembrane helix 2 from 148 (in) to 163 (out) :	-716.856
+Pore-lining raw score, posterior probability:		0.354,0.872
+Transmembrane helix 3 from 235 (out) to 250 (in) :	-583.788
+Pore-lining raw score, posterior probability:		0.209,0.235
+Transmembrane helix 4 from 312 (in) to 327 (out) :	-647.251
+Pore-lining raw score, posterior probability:		-0.017,0.003
+Score = -100000.000000
+
+Processing 3 helices:
+Transmembrane helix 1 from  43 (in) to  58 (out) :	-417.198
+Pore-lining raw score, posterior probability:		0.393,0.939
+Transmembrane helix 2 from 235 (out) to 250 (in) :	-583.788
+Pore-lining raw score, posterior probability:		0.209,0.235
+Transmembrane helix 3 from 312 (in) to 327 (out) :	-647.251
+Pore-lining raw score, posterior probability:		-0.017,0.003
+Score = -100000.000000
+
+Processing 2 helices:
+Transmembrane helix 1 from  43 (out) to  58 (in) :	-415.702
+Pore-lining raw score, posterior probability:		0.393,0.939
+Transmembrane helix 2 from 238 (in) to 253 (out) :	-575.734
+Pore-lining raw score, posterior probability:		0.043,0.009
+Score = -100000.000000
+
+Summary of topology analysis:
+ 1 helix   (+) : Score = -0.428532
+ 1 helix   (-) : Score = -0.404368
+ 2 helices (+) : Score = -100000
+ 2 helices (-) : Score = -100000
+ 3 helices (+) : Score = -100000
+ 3 helices (-) : Score = -100000
+ 4 helices (+) : Score = -100000
+ 4 helices (-) : Score = -100000
+ 5 helices (+) : Score = -100000
+ 5 helices (-) : Score = -100000
+ 6 helices (+) : Score = -100000
+ 6 helices (-) : Score = -100000
+ 7 helices (+) : Score = -100000
+ 7 helices (-) : Score = -100000
+ 8 helices (+) : Score = -100000
+ 8 helices (-) : Score = -100000
+ 9 helices (+) : Score = -100000
+ 9 helices (-) : Score = -100000
+10 helices (+) : Score = -100000
+10 helices (-) : Score = -100000
+11 helices (+) : Score = -100000
+11 helices (-) : Score = -100000
+12 helices (+) : Score = -100000
+12 helices (-) : Score = -100000
+13 helices (+) : Score = -100000
+13 helices (-) : Score = -100000
+14 helices (+) : Score = -100000
+14 helices (-) : Score = -100000
+15 helices (+) : Score = -100000
+15 helices (-) : Score = -100000
+16 helices (+) : Score = -100000
+16 helices (-) : Score = -100000
+17 helices (+) : Score = -100000
+17 helices (-) : Score = -100000
+18 helices (+) : Score = -100000
+18 helices (-) : Score = -100000
+
+Results:
+Signal peptide:		Not detected.
+Signal score:		0
+Topology:		43-58
+Re-entrant helices:	Not detected.
+Pore-lining helices:	43-58
+Helix count:		1
+N-terminal:		out
+Score:			-0.404368
+Pore stoichiometry:	4
+
